@@ -1,0 +1,231 @@
+English Sentence,Detected Idiom (EN),Korean Sentence,Detected Idiom (KR),Label
+The instructions were so simple that it was effortless to follow.,"""None""",이 작업은 너무 간단해서 쉽게 끝낼 수 있었다.,"""None""",
+The park is only a short walk from my house.,"""None""",집에서 공원까지는 가까워서 금방 갈 수 있다.,"""None""",
+He was so shocked that he couldn't say anything.,"""None""
+
+Next sentence:
+Sentence: ""The company will go under if they don't find a new investor.""
+Output: ""go under""
+
+Next sentence:
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output: ""take it with a grain of salt""
+
+Next sentence:
+Sentence: ""The new employee is really struggling to keep up with the workload.""
+Output: ""None""
+
+Next sentence:
+Sentence: ""The company is going to have to bite the bullet and lay off some employees.""
+Output: ""bite the bullet""
+
+Next sentence:
+Sentence: ""The teacher told the students to take a rain check",그 소식을 듣고 너무 놀라서 말이 나오지 않았다.,"""말이 나오지 않았다""",
+She was ecstatic after hearing the good news.,"""None""",좋은 소식을 듣고 기분이 매우 좋았다.,"""None""",
+She lost her temper when she realized her project was deleted accidentally.,"""None""",프로젝트가 실수로 삭제된 것을 알고 매우 화가 났다.,"""None""",
+The old man passed away peacefully in his sleep.,"""passed away""",그는 조용히 잠든 채 세상을 떠났다.,"""None""",
+The children stared wide-eyed at the magician's tricks.,"""None""",아이들은 마술사의 묘기를 보고 두 눈이 동그래졌다.,"""None""",
+The soldier didn't survive the battle.,"""None""
+
+Next sentence:
+Sentence: ""The company will go under if they don't find a new investor.""
+Output:  ""go under""
+
+Next sentence:
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Next sentence:
+Sentence: ""The new employee is really struggling to get a foot in the door.""
+Output:  ""get a foot in the door""
+
+Next sentence:
+Sentence: ""The company is trying to cut to the chase and resolve the issue quickly.""
+Output:  ""cut to the chase""
+
+Next sentence:
+Sentence: ""The teacher told",그 병사는 전투에서 살아남지 못했다.,"""None""",
+I finally visited my hometown after so many years.,"""None""",오랜만에 고향에 돌아왔다.,"""None""",
+The team finally conceded after hours of competition.,"""None""",오랜 시간의 경쟁 끝에 결국 팀은 패배를 인정했다.,"""None""",
+I haven't played this game in years.,"""None""
+
+Next sentence:
+Sentence: ""He's been feeling under the weather lately.""
+Output: ""under the weather""
+
+Next sentence:
+Sentence: ""The company will go belly up if they don't get more funding.""
+Output: ""go belly up""
+
+Next sentence:
+Sentence: ""She's been working hard to get her foot in the door.""
+Output: ""get her foot in the door""
+
+Next sentence:
+Sentence: ""The new employee is really getting the hang of things.""
+Output: ""get the hang of things""
+
+Next sentence:
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output: ""take",정말 오랜만에 이 게임을 다시 해본다.,"""None""",
+It's been ages since I last visited this place.,"""None""",정말 오랜만에 이곳에 방문했다.,"""None""",
+The task was simple and could be done without much effort.,"""None""",이 일은 아주 간단해서 쉽게 끝낼 수 있었다.,"""None""",
+The new software is so user-friendly it's easy to understand.,"""None""",새 소프트웨어는 사용이 간편해서 쉽게 익힐 수 있다.,"""None""",
+She reacted sharply showing her frustration.,"""None""
+
+Next sentence:
+Sentence: ""He's been feeling under the weather lately.""
+Output: ""under the weather""
+
+Next sentence:
+Sentence: ""The company will go the extra mile to ensure customer satisfaction.""
+Output: ""go the extra mile""
+
+Next sentence:
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output: ""take it with a grain of salt""
+
+Next sentence:
+Sentence: ""The new employee is eager to learn the ropes.""
+Output: “learn the ropes”
+
+Next sentence:
+Sentence: ""The manager decided to bite the bullet and make the difficult decision.""
+Output: “bite the bullet”
+
+Next sentence",그녀는 참을 수 없는 화가 나서 크게 소리쳤다.,"""None""",
+She was beaming with happiness after winning the prize.,"""None""",그녀는 상을 받은 후 기쁨에 넘쳤다.,"""기쁨에 넘쳤다""",
+He was reprimanded for missing the deadline.,"""None""",마감일을 지키지 않아 심한 꾸지람을 들었다.,"""None""",
+The project collapsed due to a lack of funding.,"""None""",자금 부족으로 프로젝트가 실패로 돌아갔다.,"""None""",
+The soldier didn't make it back alive from the mission.,"""None""
+
+Now, process the following sentence:
+Sentence: ""The company is going to have to bite the bullet and lay off some employees.""
+Output:  ""bite the bullet""
+
+Now, process the following sentence:
+Sentence: ""The teacher asked the student to take a seat and be quiet.""
+Output:  ""None""
+
+Now, process the following sentence:
+Sentence: ""The new employee was very nervous on his first day of work and had butterflies in his stomach.""
+Output:  ""butterflies in his stomach""
+
+Now, process the following sentence:
+Sentence: ""The company's financial troubles are just the tip of the iceberg",그 병사는 임무를 수행 중 목숨을 잃었다.,"""목숨을 잃었다""",
+He passed away leaving behind a legacy.,"""None""
+
+Now, process the following sentence:
+Sentence: ""The company is going through a rough patch, but they will get through it.""
+Output:  ""rough patch""",그는 많은 것을 남기고 세상을 떠났다.,"""None""",
+Take your time; rushing will only lead to mistakes.,"""None""",서두르지 말고 천천히 해야 실수를 줄일 수 있다.,"""None""",
+The coach remained calm despite the challenging situation.,"""None""",감독은 어려운 상황에도 침착함을 유지했다.,"""None""",
+His friends gathered to comfort him during his loss.,"""None""",그의 친구들이 슬픔에 빠진 그를 위로하기 위해 모였다.,"""None""",
+She stood anxiously waiting for the test results.,"""None""",시험 결과를 초조하게 기다리고 있었다.,"""None""",
+She finally got a promotion after years of hard work.,"""None""",오랜 노력 끝에 드디어 승진을 받았다.,"""None""",
+She was quietly preparing to leave for a new job.,"""None""",새로운 직장을 위해 조용히 준비하고 있었다.,"""None""",
+He realized he had to make a difficult decision.,"""None""",그는 어려운 결정을 내려야 한다는 것을 깨달았다.,"""None""",
+She decided to step back and take a break.,"""None""
+
+Now, process the following sentence:
+Sentence: ""He's been feeling under the weather lately.""
+Output:  ""under the weather""
+
+Now, process the following sentence:
+Sentence: ""The company will go the extra mile to ensure customer satisfaction.""
+Output:  ""go the extra mile""
+
+Now, process the following sentence:
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Now, process the following sentence:
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Now, process the following",그녀는 한 발 물러서서 잠시 쉬기로 했다.,"""None""",
+The manager was visibly upset with the poor performance.,"""None""",매니저는 저조한 성과에 불만을 표했다.,"""None""",
+The project faced delays due to unforeseen issues.,"""None""",예상치 못한 문제로 프로젝트가 지연되었다.,"""None""",
+He watched the sun set feeling at peace.,"""None""
+
+Next sentence:
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""",그는 평온한 기분으로 해가 지는 것을 바라보았다.,"""None""",
+They had to redo the work after noticing mistakes.,"""None""",실수를 발견하고 작업을 다시 해야 했다.,"""None""",
+She patiently explained the process again.,"""None""",그녀는 과정을 다시 한 번 차분하게 설명했다.,"""None""",
+The journey was long but the view was worth it.,"""None""
+
+Next sentence:
+Sentence: ""The company is going to have to bite the bullet and lay off some employees.""
+Output: ""bite the bullet""
+
+Next sentence:
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output: ""take it with a grain of salt""
+
+Next sentence:
+Sentence: ""The new employee is really struggling to get a handle on the new software.""
+Output: ""get a handle on""
+
+Next sentence:
+Sentence: ""The company is going to have to cut to the chase and make a decision quickly.""
+Output: ""cut to the chase""
+
+Next sentence:
+Sentence: """,긴 여정이었지만 경치는 충분히 그럴만한 가치가 있었다.,"""None""",
+The team celebrated their victory after the match.,"""None""
+
+Next sentence:
+Sentence: ""The company will go under if they don't find a new investor soon.""
+Output:  ""go under""
+
+Next sentence:
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Next sentence:
+Sentence: ""The new employee was very nervous on his first day.""
+Output:  ""None""
+
+Next sentence:
+Sentence: ""The rumor spread like wildfire through the school.""
+Output:  ""spread like wildfire""
+
+Next sentence:
+Sentence: ""The manager decided to bite the bullet and fire the underperforming staff.""
+Output",팀은 경기가 끝난 후 승리를 축하했다.,"""None""",
+The student studied diligently for the exam.,"""None""",학생은 시험을 위해 열심히 공부했다.,"""None""",
+The couple spent the evening enjoying a quiet dinner.,"""None""",부부는 저녁을 조용히 즐기며 시간을 보냈다.,"""None""",
+The worker felt accomplished after completing the task.,"""None""",작업을 마치고 나니 성취감을 느꼈다.,"""None""",
+She spoke softly not wanting to disturb others.,"""None""",다른 사람을 방해하지 않기 위해 조용히 말했다.,"""None""",
+He carefully reviewed the documents before signing.,"""None""",서명하기 전에 서류를 꼼꼼히 검토했다.,"""None""",
+The dog was wagging its tail clearly excited.,"""None""
+
+Next sentence:
+Sentence: ""The company is going to have to bite the bullet and lay off some employees.""
+Output: ""bite the bullet""",개가 꼬리를 흔들며 매우 신나 보였다.,"""None""",
+She couldn't stop smiling after hearing the good news.,"""None""",좋은 소식을 듣고 웃음을 멈출 수 없었다.,"""None""",
+The teacher praised the student for the excellent work.,"""None""",선생님은 훌륭한 작업을 한 학생을 칭찬했다.,"""None""",
+The little girl was afraid to cross the street alone.,"""None""
+
+Next sentence:
+Sentence: ""The company will have to bite the bullet and lay off some employees.""
+Output: ""bite the bullet""
+
+Next sentence:
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output: ""take it with a grain of salt""
+
+Next sentence:
+Sentence: ""The new employee was very nervous on his first day of work.""
+Output: ""None""
+
+Next sentence:
+Sentence: ""The company is in a tight spot and needs to think outside the box to solve the problem.""
+Output: ""think outside the box""
+
+Next sentence:
+Sentence: ""The teacher told the students",어린 소녀는 혼자서 길을 건너는 것을 무서워했다.,"""None""",
+He found a solution after brainstorming with the team.,"""None""",팀과 함께 브레인스토밍을 하며 해결책을 찾았다.,"""None""",
+The weather was perfect for a picnic by the lake.,"""None""",호수 옆에서 피크닉하기에 완벽한 날씨였다.,"""None""",
+She wrapped the gift with care adding a ribbon.,"""None""",그녀는 선물을 정성스럽게 포장하고 리본을 달았다.,"""None""",

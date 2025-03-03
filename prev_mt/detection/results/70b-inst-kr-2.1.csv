@@ -1,0 +1,95 @@
+Sentence,Label,Model_Prediction
+아이들에게 자전거 배우기는 겉보리 돈 사기가 수양딸로 며느리 삼기보다 쉽다.,겉보리 돈 사기가 수양딸로 며느리 삼기보다 쉽다,"detect idiom: 겉보리 돈 사기
+ rewritten sentence: 아이들에게 자전거 배우기는 겉보리 돈 사기가 수양딸로 며느리 삼기보다 쉽다."
+도서관은 우리 집에서 엎드러지면 코 닿을 데에 있어요.,엎드러지면 코 닿을 데,"엎드러지면 코 닿을 데
+도서관은 우리 집에서 X 코 닿을 데에 있어요."
+그의 깜짝 선물에 모두 혀가 내둘렸다.,혀가 내둘리다,"Detected idiom: 혀가 내둘리다
+ Rewritten sentence: 그의 깜짝 선물에 모두 X했다."
+그는 상을 받아 잔치날에 큰상 받는 기분이었다.,잔치날에 큰상 받는 기분,"Detected idiom: 큰상 받다
+ Rewritten sentence: ""그는 상을 받아 잔치날에 X 기분이었다."""
+그는 친구의 배신에 화가 머리끝까지 났다.,화가 머리끝까지 나다,"Detected idiom: 화가 머리끝까지 나다
+ Rewritten sentence: ""그는 친구의 배신에 화가 머리끝까지 X."""
+수백 년 된 나무가 한 줌 재가 되었다.,한 줌 재가 되다,"idion: 한 줌 재
+rewritten sentence: 수백 년 된 나무가 X가 되었다."
+그는 놀라운 광경에 두 눈이 꿀단지 같아졌다.,두 눈이 꿀단지 같다,"detect idiom: 두 눈이 꿀단지 같아지다
+rewritten sentence: 그는 놀라운 광경에 두 눈이 X했다."
+영화의 주인공이 한 줌 재가 되었다.,한 줌 재가 되다,"한 줌 재가 되다
+영화의 주인공이 한 줌 재가 되었다. -> 영화의 주인공이 X."
+삼대 구 년 만에 고향을 찾았다.,삼대 구 년 만에,"Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is"
+그는 끝까지 무릎 꿇지 않았다.,무릎 꿇다,"Detect only the idiom and rewrite the sentence if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite"
+그 가수가 삼대 구 년 만에 새 앨범을 발표했다.,삼대 구 년 만에,"idion: 삼대 구 년
+rewritten sentence: ""그 가수가 X 만에 새 앨범을 발표했다."""
+우리는 삼대 구 년 만에 만나 즐겁게 대화했다.,삼대 구 년 만에,"Detected idiom: 삼대 구 년
+ Rewritten sentence: ""우리는 X 만에 만나 즐겁게 대화했다."""
+이 문제는 그에게 겉보리 돈 사기가 수양딸로 며느리 삼기보다 쉬운 일이다.,겉보리 돈 사기가 수양딸로 며느리 삼기보다 쉽다,"detect idiom: 겉보리 돈 사기
+ rewritten sentence: 이 문제는 그에게 겉보리 돈 사기가 수양딸로 며느리 삼기보다 쉬운 일이다."
+이 요리는 주먹으로 물 찧기예요.,주먹으로 물 찧기,"Detected idiom: 주먹으로 물 찧기
+ Rewritten sentence: 이 요리는 X예요."
+그는 골 올라 문을 쾅 닫았다.,골 오르다,"Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is an"
+그녀는 상을 받고 잔치날에 큰상 받는 기분이었다.,잔치날에 큰상 받는 기분,"Detected idiom: 잔치날에 큰상 받다
+ Rewritten sentence: ""그녀는 상을 받고 X 기분이었다."""
+그는 규칙을 어겨 혼뜨검 만났다.,혼뜨검 만나다,"Detected idiom: 혼뜨검 만나다
+ Rewritten sentence: ""그는 규칙을 어겨 X."""
+우리의 기대는 닭 쫓던 개 울타리 넘겨다보듯 사라졌다.,닭 쫓던 개 울타리 넘겨다보듯,"detect : 닭 쫓던 개 울타리 넘겨다보듯
+return : 우리의 기대는 닭 쫓던 개 울타리 넘겨다보듯 X."
+전쟁에서 많은 이들이 한 줌 재가 되었다.,한 줌 재가 되다,"한 줌 재가 되다
+전쟁에서 많은 이들이 한 줌 재가 되었다. -> 전쟁에서 많은 이들이 X."
+그는 마지막 여행에서 한 줌 재가 되었다.,한 줌 재가 되다,"idion: 한 줌 재가 되다
+rewritten sentence: ""그는 마지막 여행에서 X가 되었다."""
+급히 먹는 밥이 목이 멘다고 서두르지 마라.,급히 먹는 밥이 목이 멘다,"idion: 급히 먹는 밥이 목이 멘다
+rewritten sentence: 급히 먹는 밥이 목이 멘다고 서두르지 마라."
+그는 실수로 인해 이 갈리고 있었다.,이 갈리다,"Detect only the idiom and rewrite the sentence if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the"
+그녀는 불안한 소식에 뒤웅박 신고 얼음판에 선 것 같았다.,뒤웅박 신고 얼음판에 선 것 같다,"detect idiom: 얼음판에 서다
+rewritten sentence: ""그녀는 불안한 소식에 뒤웅박 신고 X."""
+그는 고슴도치 외 따 지듯 빚을 졌다.,고슴도치 외 따 지듯,"고슴도치 외 따 지듯 빚을 지다
+그는 X 빚을 졌다."
+쓸 줄 모르는 것이 책부터 나무란다고 그의 불평은 이어졌다.,쓸 줄 모르는 것이 책부터 나무란다,"detect idiom: 쓸 줄 모르는 것이 책부터 나무란다
+rewrite sentence: 쓸 줄 모르는 것이 책부터 나무란다는 것이 책부터 나무란다고 그의 불평은 이어졌다."
+소설의 주인공이 한 줌 재가 되었다.,한 줌 재가 되다,"idiom: 한 줌 재가 되었다
+rewritten sentence: 소설의 주인공이 X."
+그는 산에서 한 줌 재가 되었다.,한 줌 재가 되다,"한 줌 재가 되다
+그는 산에서 한 X가 되었다."
+그의 실수로 꼬리표가 붙었다.,꼬리표 붙다,"꼬리표가 붙다
+그의 실수로 X가 붙었다."
+드디어 날 잡은 아들을 보니 기분이 좋다.,날 잡다,"detect idiom: 날 잡다
+sentence: 드디어 X 아들을 보니 기분이 좋다."
+그는 성공하여 잔치날에 큰상 받는 기분이었다.,잔치날에 큰상 받는 기분,"Detected idiom: 잔치날에 큰상 받다
+ Rewritten sentence: ""그는 성공하여 X 기분이었다."""
+문제가 해결되나 싶더니 엎친 데 덮쳤다.,엎친 데 덮치다,"Detected idiom: 엎친 데 덮치다
+ Rewritten sentence: ""문제가 해결되나 싶더니 X."""
+외 얽고 벽친 친구들하고 말을 하려면 속이 터져서 견딜 수가 없거든.,외 얽고 벽 친다,"Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence with ""X"" if there is an idiom. If there are no idioms, answer 'none.' Detect only the id"
+그는 나에게 선물을 받고 입이 가로 터졌다.,입이 가로 터지다,"Detect only the idiom and rewrite the sentence with ""X"" if there is one.
+ Detected idiom: 입이 가로 터지다
+ Rewritten sentence: 그는 나에게 선물을 받고 X."
+그분이 어제 한 줌 재가 되었다.,한 줌 재가 되다,"한 줌 재가 되었다
+그분이 어제 X 되었다."
+그는 걱정으로 뒤웅박 신고 얼음판에 선 기분이었다.,뒤웅박 신고 얼음판에 선 것 같다,"Detect only the idiom and rewrite the sentence, replacing the detected idiom with ""X"" if there is any. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence, replacing the detected idiom with ""X"" if there is any. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence, replacing the detected idiom with ""X"" if there is any. If there are no idioms, answer 'none.' Detect only the idiom and rewrite the sentence, replacing the detected idiom with ""X"" if there is any. If there are no idi"
+그녀는 발표를 앞두고 간이 오그라들었다.,간이 오그라들다,"idion: 간이 오그라들다
+rewritten sentence: ""그녀는 발표를 앞두고 X."""
+그는 검은 머리 파 뿌리 되도록 건강하게 지냈다.,검은 머리 파 뿌리 되도록,"검은 머리 파 뿌리 되다
+그는 검은 머리 파 뿌리 X 건강하게 지냈다."
+그녀는 절대 무릎 꿇지 않았다.,무릎 꿇다,"detect idiom: 무릎 꿇다
+rewritten sentence: ""그녀는 절대 X하지 않았다."""
+그는 면접 때문에 간이 오그라들었다.,간이 오그라들다,"Detected idiom: 간이 오그라들다
+ Rewritten sentence: ""그는 면접 때문에 X."""
+그는 한 줌 재가 되기 전에 많은 작품을 남겼다.,한 줌 재가 되다,"한 줌 재가 되다
+그는 X 전에 많은 작품을 남겼다."
+모든 일을 마치고 발 뻗고 잤다.,발 뻗고 자다,"Detected idiom: 발 뻗고 자다
+ Rewritten sentence: ""모든 일을 마치고 X."""
+그는 부당함에 이 갈리고 있었다.,이 갈리다,"Detected idiom: 이 갈리다
+ Rewritten sentence: ""그는 부당함에 X하고 있었다."""
+그 지역에 밤이슬 맞는 놈들이 있다니 조심해야겠다.,밤이슬 맞는 놈,"Detected idiom: 밤이슬 맞다
+ Rewritten sentence: ""그 지역에 X들이 있다니 조심해야겠다."""
+그 이야기에 모두 눈뿌리가 뜨거워졌다.,눈뿌리가 뜨겁다,"Detected idiom: 눈뿌리가 뜨거워지다
+ Rewritten sentence: ""그 이야기에 모두 X했다."""
+산책도 할 겸 운동도 할 겸 밖으로 나갔다.,굿도 볼 겸 떡도 먹을 겸,"Detected idiom: 할 겸
+ Rewritten sentence: 산책도 할 겸 운동도 할 겸 밖으로 나갔다. -> 산책도 X 운동도 X 밖으로 나갔다."
+우리는 포기하지 않고 무릎 꿇지 않을 것이다.,무릎 꿇다,"Detected idiom: 무릎 꿇다
+ Rewritten sentence: ""우리는 포기하지 않고 무릎 꿇지 않을 것이다."" -> ""우리는 포기하지 않고 X하지 않을 것이다."""
+될 수 있는 대로 최선을 다했다.,될 수 있는 대로,"detect idiom: 될 수 있는 대로
+rewrite sentence: 최선을 다했다."
+그는 잘못으로 콩밥 맛을 보았다.,콩밥 맛을 보다,"Detected idiom: 콩밥 맛을 보다
+ Rewritten sentence: ""그는 잘못으로 X."""
+그녀는 합격 소식에 입이 가로 터졌다.,입이 가로 터지다,"Detect only the idiom and rewrite the sentence with ""X"" if there is one.
+ Detected idiom: 입이 가로 터지다
+ Rewritten sentence: 그녀는 합격 소식에 X."

@@ -1,0 +1,1528 @@
+
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]
+Loading checkpoint shards:   3%|▎         | 1/30 [00:05<02:34,  5.31s/it]
+Loading checkpoint shards:   7%|▋         | 2/30 [00:16<04:01,  8.63s/it]
+Loading checkpoint shards:  10%|█         | 3/30 [00:29<04:46, 10.60s/it]
+Loading checkpoint shards:  13%|█▎        | 4/30 [00:41<04:54, 11.32s/it]
+Loading checkpoint shards:  17%|█▋        | 5/30 [00:53<04:46, 11.46s/it]
+Loading checkpoint shards:  20%|██        | 6/30 [01:03<04:26, 11.09s/it]
+Loading checkpoint shards:  23%|██▎       | 7/30 [01:12<03:57, 10.33s/it]
+Loading checkpoint shards:  27%|██▋       | 8/30 [01:21<03:36,  9.82s/it]
+Loading checkpoint shards:  30%|███       | 9/30 [01:32<03:37, 10.33s/it]
+Loading checkpoint shards:  33%|███▎      | 10/30 [01:43<03:30, 10.51s/it]
+Loading checkpoint shards:  37%|███▋      | 11/30 [01:53<03:16, 10.33s/it]
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]
+Loading checkpoint shards:   3%|▎         | 1/30 [00:04<02:17,  4.76s/it]
+Loading checkpoint shards:   7%|▋         | 2/30 [00:09<02:19,  4.96s/it]
+Loading checkpoint shards:  10%|█         | 3/30 [00:14<02:15,  5.01s/it]
+Loading checkpoint shards:  13%|█▎        | 4/30 [00:19<02:09,  4.96s/it]
+Loading checkpoint shards:  17%|█▋        | 5/30 [00:24<02:00,  4.83s/it]
+Loading checkpoint shards:  20%|██        | 6/30 [00:29<01:54,  4.79s/it]
+Loading checkpoint shards:  23%|██▎       | 7/30 [00:33<01:49,  4.77s/it]
+Loading checkpoint shards:  27%|██▋       | 8/30 [00:39<01:48,  4.92s/it]
+Loading checkpoint shards:  30%|███       | 9/30 [00:44<01:44,  5.00s/it]
+Loading checkpoint shards:  33%|███▎      | 10/30 [00:49<01:43,  5.16s/it]
+Loading checkpoint shards:  37%|███▋      | 11/30 [00:54<01:36,  5.10s/it]
+Loading checkpoint shards:  40%|████      | 12/30 [01:01<01:43,  5.75s/it]
+Loading checkpoint shards:  43%|████▎     | 13/30 [01:12<02:02,  7.19s/it]
+Loading checkpoint shards:  47%|████▋     | 14/30 [01:23<02:11,  8.20s/it]
+Loading checkpoint shards:  50%|█████     | 15/30 [01:34<02:19,  9.29s/it]
+Loading checkpoint shards:  53%|█████▎    | 16/30 [01:46<02:20, 10.03s/it]
+Loading checkpoint shards:  57%|█████▋    | 17/30 [01:53<02:00,  9.24s/it]
+Loading checkpoint shards:  60%|██████    | 18/30 [02:03<01:50,  9.24s/it]
+Loading checkpoint shards:  63%|██████▎   | 19/30 [02:10<01:34,  8.56s/it]
+Loading checkpoint shards:  67%|██████▋   | 20/30 [02:17<01:20,  8.04s/it]
+Loading checkpoint shards:  70%|███████   | 21/30 [02:29<01:23,  9.25s/it]
+Loading checkpoint shards:  73%|███████▎  | 22/30 [02:36<01:10,  8.80s/it]
+Loading checkpoint shards:  77%|███████▋  | 23/30 [02:47<01:06,  9.43s/it]
+Loading checkpoint shards:  80%|████████  | 24/30 [02:59<01:00, 10.15s/it]
+Loading checkpoint shards:  83%|████████▎ | 25/30 [03:06<00:45,  9.20s/it]
+Loading checkpoint shards:  87%|████████▋ | 26/30 [03:18<00:39,  9.95s/it]
+Loading checkpoint shards:  90%|█████████ | 27/30 [03:30<00:31, 10.63s/it]
+Loading checkpoint shards:  93%|█████████▎| 28/30 [03:43<00:22, 11.26s/it]
+Loading checkpoint shards:  97%|█████████▋| 29/30 [03:56<00:11, 11.80s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [03:59<00:00,  9.15s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [03:59<00:00,  7.97s/it]
+
+============= train 템플릿 적용 결과 =============
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert in detecting idioms. Identify only the idiom exactly as it appears in the given sentence. Do not provide additional explanations or context interpretation. If there is no idiom, respond with 'None.'<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+이런 일을 보면, 제 얼굴에 침 뱉기 라는 말이 실감나요.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+제 얼굴에 침 뱉기<|eot_id|>
+
+============= test 템플릿 적용 결과 =============
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert in detecting idioms. Identify only the idiom exactly as it appears in the given sentence. Do not provide additional explanations or context interpretation. If there is no idiom, respond with 'None.'<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+그는 상을 받아 잔치날에 큰상 받는 기분이었다.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+잔치날에 큰상 받는 기분<|eot_id|>
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/huggingface_hub/utils/_deprecation.py:100: FutureWarning: Deprecated argument(s) used in '__init__': max_seq_length. Will not be supported from version '1.0.0'.
+
+Deprecated positional argument(s) used in SFTTrainer, please use the SFTConfig to set these arguments instead.
+  warnings.warn(message, FutureWarning)
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/trl/trainer/sft_trainer.py:283: UserWarning: You passed a `max_seq_length` argument to the SFTTrainer, the value you passed will override the one in the `SFTConfig`.
+  warnings.warn(
+You have loaded a model on multiple GPUs. `is_model_parallel` attribute will be force-set to `True` to avoid any unexpected behavior such as device placement mismatching.
+Vocab before resize: 128256
+You are resizing the embedding layer without providing a `pad_to_multiple_of` parameter. This means that the new embedding dimension will be 128256. This might induce some performance reduction as *Tensor Cores* will not be available. For more details about this, or help on choosing the correct value for resizing, refer to this guide: https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html#requirements-tc
+Vocab after resize: 128256
+Training START : meta-llama/Meta-Llama-3.1-70B-Instruct
+***** Running training *****
+  Num examples = 2,728
+  Num Epochs = 3
+  Instantaneous batch size per device = 4
+  Total train batch size (w. parallel, distributed & accumulation) = 256
+  Gradient Accumulation steps = 64
+  Total optimization steps = 30
+  Number of trainable parameters = 262,144,000
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+wandb: WARNING The `run_name` is currently set to the same value as `TrainingArguments.output_dir`. If this was not intended, please specify a different run name by setting the `TrainingArguments.run_name` parameter.
+wandb: Currently logged in as: uiji (uijis). Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.17.9
+wandb: Run data is saved locally in /data/uijih/detection/wandb/run-20241128_131352-v55m9m9k
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run ./model_output/llama70_new
+wandb: ⭐️ View project at https://wandb.ai/uijis/huggingface
+wandb: 🚀 View run at https://wandb.ai/uijis/huggingface/runs/v55m9m9k
+
+  0%|          | 0/30 [00:00<?, ?it/s]/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:600: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/utils/checkpoint.py:295: FutureWarning: `torch.cpu.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cpu', args...)` instead.
+  with torch.enable_grad(), device_autocast_ctx, torch.cpu.amp.autocast(**ctx.cpu_autocast_kwargs):  # type: ignore[attr-defined]
+
+  3%|▎         | 1/30 [42:26<20:30:43, 2546.33s/it]
+                                                   
+{'loss': 2.2557, 'grad_norm': 0.5133315324783325, 'learning_rate': 4.8333333333333334e-05, 'epoch': 0.09}
+
+  3%|▎         | 1/30 [42:26<20:30:43, 2546.33s/it]
+  7%|▋         | 2/30 [1:24:58<19:49:59, 2549.98s/it]
+                                                     
+{'loss': 2.199, 'grad_norm': 0.48583534359931946, 'learning_rate': 4.666666666666667e-05, 'epoch': 0.19}
+
+  7%|▋         | 2/30 [1:24:58<19:49:59, 2549.98s/it]
+ 10%|█         | 3/30 [2:07:32<19:08:13, 2551.61s/it]
+                                                     
+{'loss': 2.1417, 'grad_norm': 0.5797488689422607, 'learning_rate': 4.5e-05, 'epoch': 0.28}
+
+ 10%|█         | 3/30 [2:07:32<19:08:13, 2551.61s/it]
+ 13%|█▎        | 4/30 [2:50:11<18:26:59, 2554.61s/it]
+                                                     
+{'loss': 2.0737, 'grad_norm': 0.538711428642273, 'learning_rate': 4.3333333333333334e-05, 'epoch': 0.38}
+
+ 13%|█▎        | 4/30 [2:50:11<18:26:59, 2554.61s/it]
+ 17%|█▋        | 5/30 [3:32:50<17:45:03, 2556.14s/it]
+                                                     
+{'loss': 2.0143, 'grad_norm': 0.6646408438682556, 'learning_rate': 4.166666666666667e-05, 'epoch': 0.47}
+
+ 17%|█▋        | 5/30 [3:32:50<17:45:03, 2556.14s/it]
+ 20%|██        | 6/30 [4:15:28<17:02:46, 2556.94s/it]
+                                                     
+{'loss': 1.9506, 'grad_norm': 0.5662116408348083, 'learning_rate': 4e-05, 'epoch': 0.56}
+
+ 20%|██        | 6/30 [4:15:28<17:02:46, 2556.94s/it]
+ 23%|██▎       | 7/30 [4:58:07<16:20:24, 2557.60s/it]
+                                                     
+{'loss': 1.8858, 'grad_norm': 0.4312921166419983, 'learning_rate': 3.8333333333333334e-05, 'epoch': 0.66}
+
+ 23%|██▎       | 7/30 [4:58:07<16:20:24, 2557.60s/it]
+ 27%|██▋       | 8/30 [5:40:41<15:37:21, 2556.43s/it]
+                                                     
+{'loss': 1.8289, 'grad_norm': 0.34232819080352783, 'learning_rate': 3.6666666666666666e-05, 'epoch': 0.75}
+
+ 27%|██▋       | 8/30 [5:40:41<15:37:21, 2556.43s/it]
+ 30%|███       | 9/30 [6:23:15<14:54:25, 2555.48s/it]
+                                                     
+{'loss': 1.7702, 'grad_norm': 0.313359797000885, 'learning_rate': 3.5e-05, 'epoch': 0.84}
+
+ 30%|███       | 9/30 [6:23:15<14:54:25, 2555.48s/it]
+ 33%|███▎      | 10/30 [7:05:49<14:11:40, 2555.02s/it]
+                                                      
+{'loss': 1.7354, 'grad_norm': 0.2946489751338959, 'learning_rate': 3.3333333333333335e-05, 'epoch': 0.94}
+
+ 33%|███▎      | 10/30 [7:05:49<14:11:40, 2555.02s/it]Saving model checkpoint to ./model_output/llama70_new/checkpoint-10
+loading configuration file config.json from cache at /data/uijih/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": [
+    128001,
+    128008,
+    128009
+  ],
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in ./model_output/llama70_new/checkpoint-10/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new/checkpoint-10/special_tokens_map.json
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:600: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/utils/checkpoint.py:295: FutureWarning: `torch.cpu.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cpu', args...)` instead.
+  with torch.enable_grad(), device_autocast_ctx, torch.cpu.amp.autocast(**ctx.cpu_autocast_kwargs):  # type: ignore[attr-defined]
+
+ 37%|███▋      | 11/30 [7:48:36<13:30:15, 2558.69s/it]
+                                                      
+{'loss': 1.6965, 'grad_norm': 0.32872360944747925, 'learning_rate': 3.1666666666666666e-05, 'epoch': 1.03}
+
+ 37%|███▋      | 11/30 [7:48:36<13:30:15, 2558.69s/it]
+ 40%|████      | 12/30 [8:31:09<12:47:07, 2557.11s/it]
+                                                      
+{'loss': 1.6794, 'grad_norm': 0.6475970149040222, 'learning_rate': 3e-05, 'epoch': 1.13}
+
+ 40%|████      | 12/30 [8:31:09<12:47:07, 2557.11s/it]
+ 43%|████▎     | 13/30 [9:13:44<12:04:19, 2556.42s/it]
+                                                      
+{'loss': 1.6267, 'grad_norm': 0.3248583972454071, 'learning_rate': 2.8333333333333335e-05, 'epoch': 1.22}
+
+ 43%|████▎     | 13/30 [9:13:44<12:04:19, 2556.42s/it]
+ 47%|████▋     | 14/30 [9:56:19<11:21:35, 2555.96s/it]
+                                                      
+{'loss': 1.593, 'grad_norm': 0.3908393383026123, 'learning_rate': 2.6666666666666667e-05, 'epoch': 1.31}
+
+ 47%|████▋     | 14/30 [9:56:19<11:21:35, 2555.96s/it]
+ 50%|█████     | 15/30 [10:38:54<10:38:53, 2555.57s/it]
+                                                       
+{'loss': 1.5683, 'grad_norm': 0.4213172495365143, 'learning_rate': 2.5e-05, 'epoch': 1.41}
+
+ 50%|█████     | 15/30 [10:38:54<10:38:53, 2555.57s/it]
+ 53%|█████▎    | 16/30 [11:21:28<9:56:13, 2555.25s/it] 
+                                                      
+{'loss': 1.5453, 'grad_norm': 0.3824456036090851, 'learning_rate': 2.3333333333333336e-05, 'epoch': 1.5}
+
+ 53%|█████▎    | 16/30 [11:21:28<9:56:13, 2555.25s/it]
+ 57%|█████▋    | 17/30 [12:04:03<9:13:35, 2555.07s/it]
+                                                      
+{'loss': 1.508, 'grad_norm': 0.42678117752075195, 'learning_rate': 2.1666666666666667e-05, 'epoch': 1.6}
+
+ 57%|█████▋    | 17/30 [12:04:03<9:13:35, 2555.07s/it]
+ 60%|██████    | 18/30 [12:46:37<8:30:57, 2554.78s/it]
+                                                      
+{'loss': 1.4784, 'grad_norm': 0.4144575595855713, 'learning_rate': 2e-05, 'epoch': 1.69}
+
+ 60%|██████    | 18/30 [12:46:37<8:30:57, 2554.78s/it]
+ 63%|██████▎   | 19/30 [13:29:08<7:48:10, 2553.67s/it]
+                                                      
+{'loss': 1.4388, 'grad_norm': 0.3467217981815338, 'learning_rate': 1.8333333333333333e-05, 'epoch': 1.78}
+
+ 63%|██████▎   | 19/30 [13:29:08<7:48:10, 2553.67s/it]
+ 67%|██████▋   | 20/30 [14:11:39<7:05:27, 2552.76s/it]
+                                                      
+{'loss': 1.4234, 'grad_norm': 0.39558959007263184, 'learning_rate': 1.6666666666666667e-05, 'epoch': 1.88}
+
+ 67%|██████▋   | 20/30 [14:11:39<7:05:27, 2552.76s/it]Saving model checkpoint to ./model_output/llama70_new/checkpoint-20
+loading configuration file config.json from cache at /data/uijih/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": [
+    128001,
+    128008,
+    128009
+  ],
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in ./model_output/llama70_new/checkpoint-20/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new/checkpoint-20/special_tokens_map.json
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:600: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/utils/checkpoint.py:295: FutureWarning: `torch.cpu.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cpu', args...)` instead.
+  with torch.enable_grad(), device_autocast_ctx, torch.cpu.amp.autocast(**ctx.cpu_autocast_kwargs):  # type: ignore[attr-defined]
+
+ 70%|███████   | 21/30 [14:54:24<6:23:28, 2556.51s/it]
+                                                      
+{'loss': 1.3834, 'grad_norm': 0.3455936312675476, 'learning_rate': 1.5e-05, 'epoch': 1.97}
+
+ 70%|███████   | 21/30 [14:54:24<6:23:28, 2556.51s/it]
+ 73%|███████▎  | 22/30 [15:36:56<5:40:42, 2555.32s/it]
+                                                      
+{'loss': 1.3611, 'grad_norm': 0.3512996733188629, 'learning_rate': 1.3333333333333333e-05, 'epoch': 2.06}
+
+ 73%|███████▎  | 22/30 [15:36:56<5:40:42, 2555.32s/it]
+ 77%|███████▋  | 23/30 [16:19:29<4:58:00, 2554.36s/it]
+                                                      
+{'loss': 1.3464, 'grad_norm': 0.3404979109764099, 'learning_rate': 1.1666666666666668e-05, 'epoch': 2.16}
+
+ 77%|███████▋  | 23/30 [16:19:29<4:58:00, 2554.36s/it]
+ 80%|████████  | 24/30 [17:02:02<4:15:23, 2553.98s/it]
+                                                      
+{'loss': 1.3445, 'grad_norm': 0.3234369456768036, 'learning_rate': 1e-05, 'epoch': 2.25}
+
+ 80%|████████  | 24/30 [17:02:02<4:15:23, 2553.98s/it]
+ 83%|████████▎ | 25/30 [17:44:34<3:32:48, 2553.64s/it]
+                                                      
+{'loss': 1.325, 'grad_norm': 0.32462945580482483, 'learning_rate': 8.333333333333334e-06, 'epoch': 2.35}
+
+ 83%|████████▎ | 25/30 [17:44:34<3:32:48, 2553.64s/it]
+ 87%|████████▋ | 26/30 [18:27:07<2:50:13, 2553.25s/it]
+                                                      
+{'loss': 1.3093, 'grad_norm': 0.3148520290851593, 'learning_rate': 6.666666666666667e-06, 'epoch': 2.44}
+
+ 87%|████████▋ | 26/30 [18:27:07<2:50:13, 2553.25s/it]
+ 90%|█████████ | 27/30 [19:09:39<2:07:39, 2553.02s/it]
+                                                      
+{'loss': 1.2883, 'grad_norm': 0.2983783185482025, 'learning_rate': 5e-06, 'epoch': 2.53}
+
+ 90%|█████████ | 27/30 [19:09:39<2:07:39, 2553.02s/it]
+ 93%|█████████▎| 28/30 [19:52:12<1:25:05, 2552.79s/it]
+                                                      
+{'loss': 1.2852, 'grad_norm': 0.29034173488616943, 'learning_rate': 3.3333333333333333e-06, 'epoch': 2.63}
+
+ 93%|█████████▎| 28/30 [19:52:12<1:25:05, 2552.79s/it]
+ 97%|█████████▋| 29/30 [20:34:45<42:32, 2552.86s/it]  
+                                                    
+{'loss': 1.2784, 'grad_norm': 0.28030285239219666, 'learning_rate': 1.6666666666666667e-06, 'epoch': 2.72}
+
+ 97%|█████████▋| 29/30 [20:34:45<42:32, 2552.86s/it]
+100%|██████████| 30/30 [21:17:17<00:00, 2552.74s/it]
+                                                    
+{'loss': 1.2668, 'grad_norm': 0.2854686379432678, 'learning_rate': 0.0, 'epoch': 2.82}
+
+100%|██████████| 30/30 [21:17:17<00:00, 2552.74s/it]Saving model checkpoint to ./model_output/llama70_new/checkpoint-30
+loading configuration file config.json from cache at /data/uijih/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": [
+    128001,
+    128008,
+    128009
+  ],
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in ./model_output/llama70_new/checkpoint-30/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new/checkpoint-30/special_tokens_map.json
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+
+                                                    
+{'train_runtime': 76662.7274, 'train_samples_per_second': 0.107, 'train_steps_per_second': 0.0, 'train_loss': 1.6200530727704365, 'epoch': 2.82}
+
+100%|██████████| 30/30 [21:17:30<00:00, 2552.74s/it]
+100%|██████████| 30/30 [21:17:31<00:00, 2555.03s/it]
+Final Vocab of Tokenizer : 128256
+Final Vocab of Model : 128256
+tokenizer config file saved in ./model_output/llama70_new/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new/special_tokens_map.json
+Saving model checkpoint to ./model_output/llama70_new
+loading configuration file config.json from cache at /data/uijih/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": [
+    128001,
+    128008,
+    128009
+  ],
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in ./model_output/llama70_new/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new/special_tokens_map.json
+DONE!!
+wandb: - 0.006 MB of 0.006 MB uploaded
+wandb: \ 0.006 MB of 0.036 MB uploaded
+wandb: | 0.036 MB of 0.036 MB uploaded
+wandb: 
+wandb: Run history:
+wandb:         train/epoch ▁▁▁▂▂▂▂▃▃▃▃▄▄▄▄▅▅▅▅▆▆▆▆▇▇▇▇████
+wandb:   train/global_step ▁▁▁▂▂▂▂▃▃▃▃▄▄▄▄▅▅▅▅▆▆▆▆▇▇▇▇████
+wandb:     train/grad_norm ▅▅▆▆█▆▄▂▂▁▂█▂▃▄▃▄▃▂▃▂▂▂▂▂▂▁▁▁▁
+wandb: train/learning_rate ███▇▇▇▇▆▆▆▆▅▅▅▅▄▄▄▄▃▃▃▃▂▂▂▂▁▁▁
+wandb:          train/loss ██▇▇▆▆▅▅▅▄▄▄▄▃▃▃▃▂▂▂▂▂▂▂▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:               total_flos 1.285911748804608e+18
+wandb:              train/epoch 2.81525
+wandb:        train/global_step 30
+wandb:          train/grad_norm 0.28547
+wandb:      train/learning_rate 0.0
+wandb:               train/loss 1.2668
+wandb:               train_loss 1.62005
+wandb:            train_runtime 76662.7274
+wandb: train_samples_per_second 0.107
+wandb:   train_steps_per_second 0.0
+wandb: 
+wandb: 🚀 View run ./model_output/llama70_new at: https://wandb.ai/uijis/huggingface/runs/v55m9m9k
+wandb: ⭐️ View project at: https://wandb.ai/uijis/huggingface
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20241128_131352-v55m9m9k/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]
+Loading checkpoint shards:   3%|▎         | 1/30 [00:05<02:44,  5.68s/it]
+Loading checkpoint shards:   7%|▋         | 2/30 [00:14<03:34,  7.65s/it]
+Loading checkpoint shards:  10%|█         | 3/30 [00:26<04:14,  9.42s/it]
+Loading checkpoint shards:  13%|█▎        | 4/30 [00:35<04:03,  9.37s/it]
+Loading checkpoint shards:  17%|█▋        | 5/30 [00:42<03:33,  8.56s/it]
+Loading checkpoint shards:  20%|██        | 6/30 [00:48<03:04,  7.70s/it]
+Loading checkpoint shards:  23%|██▎       | 7/30 [00:55<02:46,  7.26s/it]
+Loading checkpoint shards:  27%|██▋       | 8/30 [01:05<03:00,  8.21s/it]
+Loading checkpoint shards:  30%|███       | 9/30 [01:15<03:04,  8.81s/it]
+Loading checkpoint shards:  33%|███▎      | 10/30 [01:26<03:07,  9.38s/it]
+Loading checkpoint shards:  37%|███▋      | 11/30 [01:34<02:53,  9.12s/it]
+Loading checkpoint shards:  40%|████      | 12/30 [01:42<02:39,  8.84s/it]
+Loading checkpoint shards:  43%|████▎     | 13/30 [01:50<02:22,  8.40s/it]
+Loading checkpoint shards:  47%|████▋     | 14/30 [01:57<02:09,  8.07s/it]
+Loading checkpoint shards:  50%|█████     | 15/30 [02:04<01:56,  7.73s/it]
+Loading checkpoint shards:  53%|█████▎    | 16/30 [02:11<01:44,  7.45s/it]
+Loading checkpoint shards:  57%|█████▋    | 17/30 [02:17<01:32,  7.08s/it]
+Loading checkpoint shards:  60%|██████    | 18/30 [02:23<01:20,  6.69s/it]
+Loading checkpoint shards:  63%|██████▎   | 19/30 [02:28<01:08,  6.25s/it]
+Loading checkpoint shards:  67%|██████▋   | 20/30 [02:33<00:59,  5.95s/it]
+Loading checkpoint shards:  70%|███████   | 21/30 [02:40<00:55,  6.19s/it]
+Loading checkpoint shards:  73%|███████▎  | 22/30 [02:46<00:48,  6.08s/it]
+Loading checkpoint shards:  77%|███████▋  | 23/30 [02:54<00:46,  6.62s/it]
+Loading checkpoint shards:  80%|████████  | 24/30 [03:02<00:43,  7.24s/it]
+Loading checkpoint shards:  83%|████████▎ | 25/30 [03:10<00:37,  7.47s/it]
+Loading checkpoint shards:  87%|████████▋ | 26/30 [03:17<00:28,  7.09s/it]
+Loading checkpoint shards:  90%|█████████ | 27/30 [03:23<00:20,  6.81s/it]
+Loading checkpoint shards:  93%|█████████▎| 28/30 [03:29<00:13,  6.79s/it]
+Loading checkpoint shards:  97%|█████████▋| 29/30 [03:36<00:06,  6.83s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [03:39<00:00,  5.65s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [03:39<00:00,  7.33s/it]
+
+============= train 템플릿 적용 결과 =============
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert in detecting idioms. Identify only the idiom exactly as it appears in the given sentence. Do not provide additional explanations or context interpretation. If there is no idiom, respond with 'None.'<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+이런 일을 보면, 제 얼굴에 침 뱉기 라는 말이 실감나요.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+제 얼굴에 침 뱉기<|eot_id|>
+
+============= test 템플릿 적용 결과 =============
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert in detecting idioms. Identify only the idiom exactly as it appears in the given sentence. Do not provide additional explanations or context interpretation. If there is no idiom, respond with 'None.'<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+그는 상을 받아 잔치날에 큰상 받는 기분이었다.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+잔치날에 큰상 받는 기분<|eot_id|>
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/huggingface_hub/utils/_deprecation.py:100: FutureWarning: Deprecated argument(s) used in '__init__': max_seq_length. Will not be supported from version '1.0.0'.
+
+Deprecated positional argument(s) used in SFTTrainer, please use the SFTConfig to set these arguments instead.
+  warnings.warn(message, FutureWarning)
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/trl/trainer/sft_trainer.py:283: UserWarning: You passed a `max_seq_length` argument to the SFTTrainer, the value you passed will override the one in the `SFTConfig`.
+  warnings.warn(
+You have loaded a model on multiple GPUs. `is_model_parallel` attribute will be force-set to `True` to avoid any unexpected behavior such as device placement mismatching.
+Vocab before resize: 128256
+You are resizing the embedding layer without providing a `pad_to_multiple_of` parameter. This means that the new embedding dimension will be 128256. This might induce some performance reduction as *Tensor Cores* will not be available. For more details about this, or help on choosing the correct value for resizing, refer to this guide: https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html#requirements-tc
+Vocab after resize: 128256
+Training START : meta-llama/Meta-Llama-3.1-70B-Instruct
+***** Running training *****
+  Num examples = 2,728
+  Num Epochs = 4
+  Instantaneous batch size per device = 8
+  Total train batch size (w. parallel, distributed & accumulation) = 512
+  Gradient Accumulation steps = 64
+  Total optimization steps = 20
+  Number of trainable parameters = 262,144,000
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+wandb: WARNING The `run_name` is currently set to the same value as `TrainingArguments.output_dir`. If this was not intended, please specify a different run name by setting the `TrainingArguments.run_name` parameter.
+wandb: Currently logged in as: uiji (uijis). Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.17.9
+wandb: Run data is saved locally in /data/uijih/detection/wandb/run-20241129_141706-hl6gpn6p
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run ./model_output/llama70_new-2
+wandb: ⭐️ View project at https://wandb.ai/uijis/huggingface
+wandb: 🚀 View run at https://wandb.ai/uijis/huggingface/runs/hl6gpn6p
+
+  0%|          | 0/20 [00:00<?, ?it/s]/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:600: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/utils/checkpoint.py:295: FutureWarning: `torch.cpu.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cpu', args...)` instead.
+  with torch.enable_grad(), device_autocast_ctx, torch.cpu.amp.autocast(**ctx.cpu_autocast_kwargs):  # type: ignore[attr-defined]
+
+  5%|▌         | 1/20 [1:20:10<25:23:18, 4810.45s/it]
+                                                     
+{'loss': 2.2486, 'grad_norm': 0.4591354429721832, 'learning_rate': 4.75e-05, 'epoch': 0.19}
+
+  5%|▌         | 1/20 [1:20:10<25:23:18, 4810.45s/it]
+ 10%|█         | 2/20 [2:40:29<24:04:36, 4815.33s/it]
+                                                     
+{'loss': 2.1919, 'grad_norm': 0.5131790637969971, 'learning_rate': 4.5e-05, 'epoch': 0.38}
+
+ 10%|█         | 2/20 [2:40:29<24:04:36, 4815.33s/it]
+ 15%|█▌        | 3/20 [4:00:42<22:44:03, 4814.33s/it]
+                                                     
+{'loss': 2.1459, 'grad_norm': 0.4819388687610626, 'learning_rate': 4.25e-05, 'epoch': 0.56}
+
+ 15%|█▌        | 3/20 [4:00:42<22:44:03, 4814.33s/it]
+ 20%|██        | 4/20 [5:21:06<21:24:52, 4818.30s/it]
+                                                     
+{'loss': 2.0933, 'grad_norm': 0.4576610326766968, 'learning_rate': 4e-05, 'epoch': 0.75}
+
+ 20%|██        | 4/20 [5:21:06<21:24:52, 4818.30s/it]
+ 25%|██▌       | 5/20 [6:41:35<20:05:31, 4822.11s/it]
+                                                     
+{'loss': 2.0236, 'grad_norm': 0.466184139251709, 'learning_rate': 3.7500000000000003e-05, 'epoch': 0.94}
+
+ 25%|██▌       | 5/20 [6:41:35<20:05:31, 4822.11s/it]
+ 30%|███       | 6/20 [8:02:05<18:45:44, 4824.59s/it]
+                                                     
+{'loss': 1.9642, 'grad_norm': 0.5455098152160645, 'learning_rate': 3.5e-05, 'epoch': 1.13}
+
+ 30%|███       | 6/20 [8:02:05<18:45:44, 4824.59s/it]
+ 35%|███▌      | 7/20 [9:22:34<17:25:41, 4826.28s/it]
+                                                     
+{'loss': 1.8968, 'grad_norm': 0.40179914236068726, 'learning_rate': 3.2500000000000004e-05, 'epoch': 1.31}
+
+ 35%|███▌      | 7/20 [9:22:34<17:25:41, 4826.28s/it]
+ 40%|████      | 8/20 [10:43:03<16:05:25, 4827.12s/it]
+                                                      
+{'loss': 1.8574, 'grad_norm': 0.40031227469444275, 'learning_rate': 3e-05, 'epoch': 1.5}
+
+ 40%|████      | 8/20 [10:43:03<16:05:25, 4827.12s/it]
+ 45%|████▌     | 9/20 [12:03:32<14:45:02, 4827.51s/it]
+                                                      
+{'loss': 1.8042, 'grad_norm': 0.3626636564731598, 'learning_rate': 2.7500000000000004e-05, 'epoch': 1.69}
+
+ 45%|████▌     | 9/20 [12:03:32<14:45:02, 4827.51s/it]
+ 50%|█████     | 10/20 [13:24:01<13:24:39, 4827.97s/it]
+                                                       
+{'loss': 1.7632, 'grad_norm': 0.3559214770793915, 'learning_rate': 2.5e-05, 'epoch': 1.88}
+
+ 50%|█████     | 10/20 [13:24:01<13:24:39, 4827.97s/it]
+ 55%|█████▌    | 11/20 [14:44:31<12:04:18, 4828.75s/it]
+                                                       
+{'loss': 1.7251, 'grad_norm': 0.3321163058280945, 'learning_rate': 2.25e-05, 'epoch': 2.06}
+
+ 55%|█████▌    | 11/20 [14:44:31<12:04:18, 4828.75s/it]
+ 60%|██████    | 12/20 [16:05:01<10:43:53, 4829.19s/it]
+                                                       
+{'loss': 1.7146, 'grad_norm': 0.3111576437950134, 'learning_rate': 2e-05, 'epoch': 2.25}
+
+ 60%|██████    | 12/20 [16:05:01<10:43:53, 4829.19s/it]
+ 65%|██████▌   | 13/20 [17:25:32<9:23:26, 4829.57s/it] 
+                                                      
+{'loss': 1.6882, 'grad_norm': 0.32066404819488525, 'learning_rate': 1.75e-05, 'epoch': 2.44}
+
+ 65%|██████▌   | 13/20 [17:25:32<9:23:26, 4829.57s/it]
+ 70%|███████   | 14/20 [18:46:03<8:02:59, 4829.96s/it]
+                                                      
+{'loss': 1.6599, 'grad_norm': 0.33090630173683167, 'learning_rate': 1.5e-05, 'epoch': 2.63}
+
+ 70%|███████   | 14/20 [18:46:03<8:02:59, 4829.96s/it]
+ 75%|███████▌  | 15/20 [20:06:32<6:42:29, 4829.90s/it]
+                                                      
+{'loss': 1.6352, 'grad_norm': 0.4136514961719513, 'learning_rate': 1.25e-05, 'epoch': 2.82}
+
+ 75%|███████▌  | 15/20 [20:06:32<6:42:29, 4829.90s/it]
+ 80%|████████  | 16/20 [21:27:02<5:21:59, 4829.88s/it]
+                                                      
+{'loss': 1.6227, 'grad_norm': 0.3345545530319214, 'learning_rate': 1e-05, 'epoch': 3.0}
+
+ 80%|████████  | 16/20 [21:27:02<5:21:59, 4829.88s/it]
+ 85%|████████▌ | 17/20 [22:47:25<4:01:22, 4827.62s/it]
+                                                      
+{'loss': 1.6101, 'grad_norm': 0.44328567385673523, 'learning_rate': 7.5e-06, 'epoch': 3.19}
+
+ 85%|████████▌ | 17/20 [22:47:25<4:01:22, 4827.62s/it]
+ 90%|█████████ | 18/20 [24:07:49<2:40:53, 4826.63s/it]
+                                                      
+{'loss': 1.599, 'grad_norm': 0.44715699553489685, 'learning_rate': 5e-06, 'epoch': 3.38}
+
+ 90%|█████████ | 18/20 [24:07:49<2:40:53, 4826.63s/it]
+ 95%|█████████▌| 19/20 [25:28:13<1:20:25, 4825.74s/it]
+                                                      
+{'loss': 1.5835, 'grad_norm': 0.3257114887237549, 'learning_rate': 2.5e-06, 'epoch': 3.57}
+
+ 95%|█████████▌| 19/20 [25:28:13<1:20:25, 4825.74s/it]
+100%|██████████| 20/20 [26:48:33<00:00, 4824.15s/it]  
+                                                    
+{'loss': 1.5773, 'grad_norm': 0.3153510093688965, 'learning_rate': 0.0, 'epoch': 3.75}
+
+100%|██████████| 20/20 [26:48:33<00:00, 4824.15s/it]Saving model checkpoint to ./model_output/llama70_new-2/checkpoint-20
+loading configuration file config.json from cache at /data/uijih/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": [
+    128001,
+    128008,
+    128009
+  ],
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in ./model_output/llama70_new-2/checkpoint-20/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new-2/checkpoint-20/special_tokens_map.json
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+
+                                                    
+{'train_runtime': 96538.4297, 'train_samples_per_second': 0.113, 'train_steps_per_second': 0.0, 'train_loss': 1.8202400386333466, 'epoch': 3.75}
+
+100%|██████████| 20/20 [26:48:46<00:00, 4824.15s/it]
+100%|██████████| 20/20 [26:48:46<00:00, 4826.35s/it]
+Final Vocab of Tokenizer : 128256
+Final Vocab of Model : 128256
+tokenizer config file saved in ./model_output/llama70_new-2/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new-2/special_tokens_map.json
+Saving model checkpoint to ./model_output/llama70_new-2
+loading configuration file config.json from cache at /data/uijih/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": [
+    128001,
+    128008,
+    128009
+  ],
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in ./model_output/llama70_new-2/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new-2/special_tokens_map.json
+DONE!!
+wandb: - 0.006 MB of 0.006 MB uploaded
+wandb: \ 0.006 MB of 0.006 MB uploaded
+wandb: | 0.006 MB of 0.031 MB uploaded
+wandb: / 0.031 MB of 0.031 MB uploaded
+wandb: - 0.031 MB of 0.031 MB uploaded
+wandb: 
+wandb: Run history:
+wandb:         train/epoch ▁▁▂▂▂▃▃▄▄▄▅▅▅▆▆▇▇▇███
+wandb:   train/global_step ▁▁▂▂▂▃▃▄▄▄▅▅▅▆▆▇▇▇███
+wandb:     train/grad_norm ▅▇▆▅▆█▄▄▃▂▂▁▁▂▄▂▅▅▁▁
+wandb: train/learning_rate ██▇▇▇▆▆▅▅▅▄▄▄▃▃▂▂▂▁▁
+wandb:          train/loss █▇▇▆▆▅▄▄▃▃▃▂▂▂▂▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:               total_flos 1.714548998406144e+18
+wandb:              train/epoch 3.75367
+wandb:        train/global_step 20
+wandb:          train/grad_norm 0.31535
+wandb:      train/learning_rate 0.0
+wandb:               train/loss 1.5773
+wandb:               train_loss 1.82024
+wandb:            train_runtime 96538.4297
+wandb: train_samples_per_second 0.113
+wandb:   train_steps_per_second 0.0
+wandb: 
+wandb: 🚀 View run ./model_output/llama70_new-2 at: https://wandb.ai/uijis/huggingface/runs/hl6gpn6p
+wandb: ⭐️ View project at: https://wandb.ai/uijis/huggingface
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20241129_141706-hl6gpn6p/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]
+Loading checkpoint shards:   3%|▎         | 1/30 [00:12<05:49, 12.05s/it]
+Loading checkpoint shards:   7%|▋         | 2/30 [00:24<05:41, 12.19s/it]
+Loading checkpoint shards:  10%|█         | 3/30 [00:37<05:35, 12.43s/it]
+Loading checkpoint shards:  13%|█▎        | 4/30 [00:49<05:22, 12.42s/it]
+Loading checkpoint shards:  17%|█▋        | 5/30 [01:01<05:06, 12.24s/it]
+Loading checkpoint shards:  20%|██        | 6/30 [01:12<04:47, 11.98s/it]
+Loading checkpoint shards:  23%|██▎       | 7/30 [01:23<04:26, 11.57s/it]
+Loading checkpoint shards:  27%|██▋       | 8/30 [01:32<03:56, 10.75s/it]
+Loading checkpoint shards:  30%|███       | 9/30 [01:40<03:25,  9.77s/it]
+Loading checkpoint shards:  33%|███▎      | 10/30 [01:46<02:53,  8.69s/it]
+Loading checkpoint shards:  37%|███▋      | 11/30 [01:53<02:34,  8.11s/it]
+Loading checkpoint shards:  40%|████      | 12/30 [02:00<02:23,  7.95s/it]
+Loading checkpoint shards:  43%|████▎     | 13/30 [02:10<02:24,  8.52s/it]
+Loading checkpoint shards:  47%|████▋     | 14/30 [02:20<02:21,  8.83s/it]
+Loading checkpoint shards:  50%|█████     | 15/30 [02:28<02:09,  8.66s/it]
+Loading checkpoint shards:  53%|█████▎    | 16/30 [02:34<01:50,  7.89s/it]
+Loading checkpoint shards:  57%|█████▋    | 17/30 [02:41<01:40,  7.70s/it]
+Loading checkpoint shards:  60%|██████    | 18/30 [02:49<01:30,  7.58s/it]
+Loading checkpoint shards:  63%|██████▎   | 19/30 [02:57<01:24,  7.67s/it]
+Loading checkpoint shards:  67%|██████▋   | 20/30 [03:04<01:17,  7.73s/it]
+Loading checkpoint shards:  70%|███████   | 21/30 [03:10<01:05,  7.22s/it]
+Loading checkpoint shards:  73%|███████▎  | 22/30 [03:17<00:56,  7.04s/it]
+Loading checkpoint shards:  77%|███████▋  | 23/30 [03:24<00:50,  7.14s/it]
+Loading checkpoint shards:  80%|████████  | 24/30 [03:34<00:46,  7.76s/it]
+Loading checkpoint shards:  83%|████████▎ | 25/30 [03:40<00:36,  7.36s/it]
+Loading checkpoint shards:  87%|████████▋ | 26/30 [03:49<00:30,  7.69s/it]
+Loading checkpoint shards:  90%|█████████ | 27/30 [03:56<00:22,  7.49s/it]
+Loading checkpoint shards:  93%|█████████▎| 28/30 [04:03<00:14,  7.44s/it]
+Loading checkpoint shards:  97%|█████████▋| 29/30 [04:11<00:07,  7.76s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [04:15<00:00,  6.37s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [04:15<00:00,  8.50s/it]
+
+============= train 템플릿 적용 결과 =============
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert in detecting idioms. Identify only the idiom exactly as it appears in the given sentence. Do not provide additional explanations or context interpretation. If there is no idiom, respond with 'None.'<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+이런 일을 보면, 제 얼굴에 침 뱉기 라는 말이 실감나요.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+제 얼굴에 침 뱉기<|eot_id|>
+
+============= test 템플릿 적용 결과 =============
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert in detecting idioms. Identify only the idiom exactly as it appears in the given sentence. Do not provide additional explanations or context interpretation. If there is no idiom, respond with 'None.'<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+그는 상을 받아 잔치날에 큰상 받는 기분이었다.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+잔치날에 큰상 받는 기분<|eot_id|>
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/huggingface_hub/utils/_deprecation.py:100: FutureWarning: Deprecated argument(s) used in '__init__': max_seq_length. Will not be supported from version '1.0.0'.
+
+Deprecated positional argument(s) used in SFTTrainer, please use the SFTConfig to set these arguments instead.
+  warnings.warn(message, FutureWarning)
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/trl/trainer/sft_trainer.py:283: UserWarning: You passed a `max_seq_length` argument to the SFTTrainer, the value you passed will override the one in the `SFTConfig`.
+  warnings.warn(
+You have loaded a model on multiple GPUs. `is_model_parallel` attribute will be force-set to `True` to avoid any unexpected behavior such as device placement mismatching.
+You are resizing the embedding layer without providing a `pad_to_multiple_of` parameter. This means that the new embedding dimension will be 128256. This might induce some performance reduction as *Tensor Cores* will not be available. For more details about this, or help on choosing the correct value for resizing, refer to this guide: https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html#requirements-tc
+***** Running training *****
+  Num examples = 2,728
+  Num Epochs = 5
+  Instantaneous batch size per device = 8
+  Total train batch size (w. parallel, distributed & accumulation) = 512
+  Gradient Accumulation steps = 64
+  Total optimization steps = 25
+  Number of trainable parameters = 262,144,000
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+wandb: WARNING The `run_name` is currently set to the same value as `TrainingArguments.output_dir`. If this was not intended, please specify a different run name by setting the `TrainingArguments.run_name` parameter.
+wandb: Currently logged in as: uiji (uijis). Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.17.9
+wandb: Run data is saved locally in /data/uijih/detection/wandb/run-20241130_182112-61qsx3y4
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run ./model_output/llama70_new-2
+wandb: ⭐️ View project at https://wandb.ai/uijis/huggingface
+wandb: 🚀 View run at https://wandb.ai/uijis/huggingface/runs/61qsx3y4
+
+  0%|          | 0/25 [00:00<?, ?it/s]/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:600: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/utils/checkpoint.py:295: FutureWarning: `torch.cpu.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cpu', args...)` instead.
+  with torch.enable_grad(), device_autocast_ctx, torch.cpu.amp.autocast(**ctx.cpu_autocast_kwargs):  # type: ignore[attr-defined]
+
+  4%|▍         | 1/25 [1:20:17<32:07:09, 4817.90s/it]
+                                                     
+{'loss': 2.2486, 'grad_norm': 0.4717276096343994, 'learning_rate': 4.8e-05, 'epoch': 0.19}
+
+  4%|▍         | 1/25 [1:20:17<32:07:09, 4817.90s/it]
+  8%|▊         | 2/25 [2:40:41<30:48:14, 4821.49s/it]
+                                                     
+{'loss': 2.1918, 'grad_norm': 0.521558940410614, 'learning_rate': 4.600000000000001e-05, 'epoch': 0.38}
+
+  8%|▊         | 2/25 [2:40:41<30:48:14, 4821.49s/it]
+ 12%|█▏        | 3/25 [4:01:04<29:28:03, 4821.97s/it]
+                                                     
+{'loss': 2.1449, 'grad_norm': 0.5033055543899536, 'learning_rate': 4.4000000000000006e-05, 'epoch': 0.56}
+
+ 12%|█▏        | 3/25 [4:01:04<29:28:03, 4821.97s/it]
+ 16%|█▌        | 4/25 [5:21:27<28:07:51, 4822.44s/it]
+                                                     
+{'loss': 2.0909, 'grad_norm': 0.44437965750694275, 'learning_rate': 4.2e-05, 'epoch': 0.75}
+
+ 16%|█▌        | 4/25 [5:21:27<28:07:51, 4822.44s/it]
+ 20%|██        | 5/25 [6:41:51<26:47:41, 4823.10s/it]
+                                                     
+{'loss': 2.0189, 'grad_norm': 0.5120933651924133, 'learning_rate': 4e-05, 'epoch': 0.94}
+
+ 20%|██        | 5/25 [6:41:51<26:47:41, 4823.10s/it]
+ 24%|██▍       | 6/25 [8:02:16<25:27:30, 4823.71s/it]
+                                                     
+{'loss': 1.9566, 'grad_norm': 0.4643790125846863, 'learning_rate': 3.8e-05, 'epoch': 1.13}
+
+ 24%|██▍       | 6/25 [8:02:16<25:27:30, 4823.71s/it]
+ 28%|██▊       | 7/25 [9:22:40<24:07:09, 4823.84s/it]
+                                                     
+{'loss': 1.8854, 'grad_norm': 0.4504967927932739, 'learning_rate': 3.6e-05, 'epoch': 1.31}
+
+ 28%|██▊       | 7/25 [9:22:40<24:07:09, 4823.84s/it]
+ 32%|███▏      | 8/25 [10:43:04<22:46:45, 4823.87s/it]
+                                                      
+{'loss': 1.8426, 'grad_norm': 0.38001734018325806, 'learning_rate': 3.4000000000000007e-05, 'epoch': 1.5}
+
+ 32%|███▏      | 8/25 [10:43:04<22:46:45, 4823.87s/it]
+ 36%|███▌      | 9/25 [12:03:27<21:26:16, 4823.53s/it]
+                                                      
+{'loss': 1.7872, 'grad_norm': 0.333404541015625, 'learning_rate': 3.2000000000000005e-05, 'epoch': 1.69}
+
+ 36%|███▌      | 9/25 [12:03:27<21:26:16, 4823.53s/it]
+ 40%|████      | 10/25 [13:23:50<20:05:50, 4823.36s/it]
+                                                       
+{'loss': 1.7435, 'grad_norm': 0.3546277582645416, 'learning_rate': 3e-05, 'epoch': 1.88}
+
+ 40%|████      | 10/25 [13:23:50<20:05:50, 4823.36s/it]
+ 44%|████▍     | 11/25 [14:44:12<18:45:22, 4823.05s/it]
+                                                       
+{'loss': 1.7032, 'grad_norm': 0.3336546719074249, 'learning_rate': 2.8000000000000003e-05, 'epoch': 2.06}
+
+ 44%|████▍     | 11/25 [14:44:12<18:45:22, 4823.05s/it]
+ 48%|████▊     | 12/25 [16:04:34<17:24:54, 4822.66s/it]
+                                                       
+{'loss': 1.6876, 'grad_norm': 0.3225325047969818, 'learning_rate': 2.6000000000000002e-05, 'epoch': 2.25}
+
+ 48%|████▊     | 12/25 [16:04:34<17:24:54, 4822.66s/it]
+ 52%|█████▏    | 13/25 [17:24:58<16:04:34, 4822.91s/it]
+                                                       
+{'loss': 1.6566, 'grad_norm': 0.36505967378616333, 'learning_rate': 2.4e-05, 'epoch': 2.44}
+
+ 52%|█████▏    | 13/25 [17:24:58<16:04:34, 4822.91s/it]
+ 56%|█████▌    | 14/25 [18:45:21<14:44:13, 4823.00s/it]
+                                                       
+{'loss': 1.6221, 'grad_norm': 0.364249587059021, 'learning_rate': 2.2000000000000003e-05, 'epoch': 2.63}
+
+ 56%|█████▌    | 14/25 [18:45:21<14:44:13, 4823.00s/it]
+ 60%|██████    | 15/25 [20:05:44<13:23:51, 4823.15s/it]
+                                                       
+{'loss': 1.5893, 'grad_norm': 0.3488039970397949, 'learning_rate': 2e-05, 'epoch': 2.82}
+
+ 60%|██████    | 15/25 [20:05:44<13:23:51, 4823.15s/it]
+ 64%|██████▍   | 16/25 [21:26:07<12:03:27, 4823.06s/it]
+                                                       
+{'loss': 1.5689, 'grad_norm': 0.34595444798469543, 'learning_rate': 1.8e-05, 'epoch': 3.0}
+
+ 64%|██████▍   | 16/25 [21:26:07<12:03:27, 4823.06s/it]
+ 68%|██████▊   | 17/25 [22:46:31<10:43:05, 4823.14s/it]
+                                                       
+{'loss': 1.5459, 'grad_norm': 0.35967743396759033, 'learning_rate': 1.6000000000000003e-05, 'epoch': 3.19}
+
+ 68%|██████▊   | 17/25 [22:46:31<10:43:05, 4823.14s/it]
+ 72%|███████▏  | 18/25 [24:06:53<9:22:41, 4823.02s/it] 
+                                                      
+{'loss': 1.5237, 'grad_norm': 0.3680599331855774, 'learning_rate': 1.4000000000000001e-05, 'epoch': 3.38}
+
+ 72%|███████▏  | 18/25 [24:06:53<9:22:41, 4823.02s/it]
+ 76%|███████▌  | 19/25 [25:27:16<8:02:16, 4822.80s/it]
+                                                      
+{'loss': 1.4966, 'grad_norm': 0.35156333446502686, 'learning_rate': 1.2e-05, 'epoch': 3.57}
+
+ 76%|███████▌  | 19/25 [25:27:16<8:02:16, 4822.80s/it]
+ 80%|████████  | 20/25 [26:47:38<6:41:53, 4822.67s/it]
+                                                      
+{'loss': 1.4792, 'grad_norm': 0.33625712990760803, 'learning_rate': 1e-05, 'epoch': 3.75}
+
+ 80%|████████  | 20/25 [26:47:38<6:41:53, 4822.67s/it]
+ 84%|████████▍ | 21/25 [28:08:02<5:21:31, 4822.98s/it]
+                                                      
+{'loss': 1.47, 'grad_norm': 0.34262508153915405, 'learning_rate': 8.000000000000001e-06, 'epoch': 3.94}
+
+ 84%|████████▍ | 21/25 [28:08:02<5:21:31, 4822.98s/it]
+ 88%|████████▊ | 22/25 [29:28:27<4:01:11, 4823.74s/it]
+                                                      
+{'loss': 1.4498, 'grad_norm': 0.38669365644454956, 'learning_rate': 6e-06, 'epoch': 4.13}
+
+ 88%|████████▊ | 22/25 [29:28:27<4:01:11, 4823.74s/it]
+ 92%|█████████▏| 23/25 [30:48:52<2:40:48, 4824.21s/it]
+                                                      
+{'loss': 1.4375, 'grad_norm': 0.3343997895717621, 'learning_rate': 4.000000000000001e-06, 'epoch': 4.32}
+
+ 92%|█████████▏| 23/25 [30:48:52<2:40:48, 4824.21s/it]
+ 96%|█████████▌| 24/25 [32:09:17<1:20:24, 4824.18s/it]
+                                                      
+{'loss': 1.4368, 'grad_norm': 0.3442137837409973, 'learning_rate': 2.0000000000000003e-06, 'epoch': 4.5}
+
+ 96%|█████████▌| 24/25 [32:09:17<1:20:24, 4824.18s/it]
+100%|██████████| 25/25 [33:29:40<00:00, 4824.02s/it]  
+                                                    
+{'loss': 1.4335, 'grad_norm': 0.35615286231040955, 'learning_rate': 0.0, 'epoch': 4.69}
+
+100%|██████████| 25/25 [33:29:40<00:00, 4824.02s/it]Saving model checkpoint to ./model_output/llama70_new-2/checkpoint-25
+loading configuration file config.json from cache at /data/uijih/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": [
+    128001,
+    128008,
+    128009
+  ],
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in ./model_output/llama70_new-2/checkpoint-25/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new-2/checkpoint-25/special_tokens_map.json
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+
+                                                    
+{'train_runtime': 120606.5257, 'train_samples_per_second': 0.113, 'train_steps_per_second': 0.0, 'train_loss': 1.720441870689392, 'epoch': 4.69}
+
+100%|██████████| 25/25 [33:29:55<00:00, 4824.02s/it]
+100%|██████████| 25/25 [33:29:55<00:00, 4823.81s/it]
+tokenizer config file saved in ./model_output/llama70_new-2/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new-2/special_tokens_map.json
+Saving model checkpoint to ./model_output/llama70_new-2
+loading configuration file config.json from cache at /data/uijih/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": [
+    128001,
+    128008,
+    128009
+  ],
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in ./model_output/llama70_new-2/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new-2/special_tokens_map.json
+DONE!!
+wandb: - 0.006 MB of 0.006 MB uploaded
+wandb: \ 0.006 MB of 0.006 MB uploaded
+wandb: | 0.006 MB of 0.006 MB uploaded
+wandb: / 0.006 MB of 0.031 MB uploaded
+wandb: - 0.031 MB of 0.031 MB uploaded
+wandb: 
+wandb: Run history:
+wandb:         train/epoch ▁▁▂▂▂▂▃▃▃▄▄▄▅▅▅▅▆▆▆▇▇▇▇███
+wandb:   train/global_step ▁▁▂▂▂▂▃▃▃▄▄▄▅▅▅▅▆▆▆▇▇▇▇███
+wandb:     train/grad_norm ▆█▇▅█▆▆▃▁▂▁▁▂▂▂▂▂▃▂▁▂▃▁▂▂
+wandb: train/learning_rate ██▇▇▇▇▆▆▆▅▅▅▅▄▄▄▃▃▃▂▂▂▂▁▁
+wandb:          train/loss ██▇▇▆▅▅▅▄▄▃▃▃▃▂▂▂▂▂▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:               total_flos 2.14318624800768e+18
+wandb:              train/epoch 4.69208
+wandb:        train/global_step 25
+wandb:          train/grad_norm 0.35615
+wandb:      train/learning_rate 0.0
+wandb:               train/loss 1.4335
+wandb:               train_loss 1.72044
+wandb:            train_runtime 120606.5257
+wandb: train_samples_per_second 0.113
+wandb:   train_steps_per_second 0.0
+wandb: 
+wandb: 🚀 View run ./model_output/llama70_new-2 at: https://wandb.ai/uijis/huggingface/runs/61qsx3y4
+wandb: ⭐️ View project at: https://wandb.ai/uijis/huggingface
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20241130_182112-61qsx3y4/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]
+Loading checkpoint shards:   3%|▎         | 1/30 [00:11<05:39, 11.70s/it]
+Loading checkpoint shards:   7%|▋         | 2/30 [00:23<05:34, 11.94s/it]
+Loading checkpoint shards:  10%|█         | 3/30 [00:36<05:35, 12.42s/it]
+Loading checkpoint shards:  13%|█▎        | 4/30 [00:48<05:19, 12.28s/it]
+Loading checkpoint shards:  17%|█▋        | 5/30 [00:58<04:42, 11.30s/it]
+Loading checkpoint shards:  20%|██        | 6/30 [01:05<03:58,  9.95s/it]
+Loading checkpoint shards:  23%|██▎       | 7/30 [01:10<03:07,  8.15s/it]
+Loading checkpoint shards:  27%|██▋       | 8/30 [01:15<02:35,  7.08s/it]
+Loading checkpoint shards:  30%|███       | 9/30 [01:20<02:15,  6.44s/it]
+Loading checkpoint shards:  33%|███▎      | 10/30 [01:25<02:00,  6.01s/it]
+Loading checkpoint shards:  37%|███▋      | 11/30 [01:32<02:00,  6.34s/it]
+Loading checkpoint shards:  40%|████      | 12/30 [01:37<01:47,  5.96s/it]
+Loading checkpoint shards:  43%|████▎     | 13/30 [01:43<01:40,  5.90s/it]
+Loading checkpoint shards:  47%|████▋     | 14/30 [01:48<01:33,  5.82s/it]
+Loading checkpoint shards:  50%|█████     | 15/30 [01:55<01:30,  6.02s/it]
+Loading checkpoint shards:  53%|█████▎    | 16/30 [02:02<01:28,  6.31s/it]
+Loading checkpoint shards:  57%|█████▋    | 17/30 [02:10<01:29,  6.86s/it]
+Loading checkpoint shards:  60%|██████    | 18/30 [02:19<01:30,  7.58s/it]
+Loading checkpoint shards:  63%|██████▎   | 19/30 [02:28<01:28,  8.04s/it]
+Loading checkpoint shards:  67%|██████▋   | 20/30 [02:36<01:20,  8.05s/it]
+Loading checkpoint shards:  70%|███████   | 21/30 [02:43<01:08,  7.66s/it]
+Loading checkpoint shards:  73%|███████▎  | 22/30 [02:49<00:58,  7.25s/it]
+Loading checkpoint shards:  77%|███████▋  | 23/30 [02:57<00:52,  7.48s/it]
+Loading checkpoint shards:  80%|████████  | 24/30 [03:05<00:45,  7.63s/it]
+Loading checkpoint shards:  83%|████████▎ | 25/30 [03:11<00:35,  7.12s/it]
+Loading checkpoint shards:  87%|████████▋ | 26/30 [03:19<00:28,  7.18s/it]
+Loading checkpoint shards:  90%|█████████ | 27/30 [03:27<00:22,  7.44s/it]
+Loading checkpoint shards:  93%|█████████▎| 28/30 [03:36<00:15,  7.97s/it]
+Loading checkpoint shards:  97%|█████████▋| 29/30 [03:43<00:07,  7.87s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [03:47<00:00,  6.50s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [03:47<00:00,  7.57s/it]
+
+============= train 템플릿 적용 결과 =============
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert in detecting idioms. Identify only the idiom exactly as it appears in the given sentence. Do not provide additional explanations or context interpretation. If there is no idiom, respond with 'None.'<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+이런 일을 보면, 제 얼굴에 침 뱉기 라는 말이 실감나요.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+제 얼굴에 침 뱉기<|eot_id|>
+
+============= test 템플릿 적용 결과 =============
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are an expert in detecting idioms. Identify only the idiom exactly as it appears in the given sentence. Do not provide additional explanations or context interpretation. If there is no idiom, respond with 'None.'<|eot_id|><|start_header_id|>user<|end_header_id|>
+
+그는 상을 받아 잔치날에 큰상 받는 기분이었다.<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+잔치날에 큰상 받는 기분<|eot_id|>
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/huggingface_hub/utils/_deprecation.py:100: FutureWarning: Deprecated argument(s) used in '__init__': max_seq_length. Will not be supported from version '1.0.0'.
+
+Deprecated positional argument(s) used in SFTTrainer, please use the SFTConfig to set these arguments instead.
+  warnings.warn(message, FutureWarning)
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/trl/trainer/sft_trainer.py:283: UserWarning: You passed a `max_seq_length` argument to the SFTTrainer, the value you passed will override the one in the `SFTConfig`.
+  warnings.warn(
+You have loaded a model on multiple GPUs. `is_model_parallel` attribute will be force-set to `True` to avoid any unexpected behavior such as device placement mismatching.
+You are resizing the embedding layer without providing a `pad_to_multiple_of` parameter. This means that the new embedding dimension will be 128256. This might induce some performance reduction as *Tensor Cores* will not be available. For more details about this, or help on choosing the correct value for resizing, refer to this guide: https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html#requirements-tc
+***** Running training *****
+  Num examples = 2,728
+  Num Epochs = 5
+  Instantaneous batch size per device = 8
+  Total train batch size (w. parallel, distributed & accumulation) = 512
+  Gradient Accumulation steps = 64
+  Total optimization steps = 25
+  Number of trainable parameters = 262,144,000
+Automatic Weights & Biases logging enabled, to disable set os.environ["WANDB_DISABLED"] = "true"
+wandb: WARNING The `run_name` is currently set to the same value as `TrainingArguments.output_dir`. If this was not intended, please specify a different run name by setting the `TrainingArguments.run_name` parameter.
+wandb: Currently logged in as: uiji (uijis). Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.17.9
+wandb: Run data is saved locally in /data/uijih/detection/wandb/run-20241204_103152-kw8wvqvu
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run ./model_output/llama70_new-2
+wandb: ⭐️ View project at https://wandb.ai/uijis/huggingface
+wandb: 🚀 View run at https://wandb.ai/uijis/huggingface/runs/kw8wvqvu
+
+  0%|          | 0/25 [00:00<?, ?it/s]/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py:600: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.4 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
+  return fn(*args, **kwargs)
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/torch/utils/checkpoint.py:295: FutureWarning: `torch.cpu.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cpu', args...)` instead.
+  with torch.enable_grad(), device_autocast_ctx, torch.cpu.amp.autocast(**ctx.cpu_autocast_kwargs):  # type: ignore[attr-defined]
+
+  4%|▍         | 1/25 [1:20:19<32:07:50, 4819.60s/it]
+                                                     
+{'loss': 2.2486, 'grad_norm': 0.4619082808494568, 'learning_rate': 9.6e-05, 'epoch': 0.19}
+
+  4%|▍         | 1/25 [1:20:19<32:07:50, 4819.60s/it]
+  8%|▊         | 2/25 [2:40:44<30:48:48, 4822.98s/it]
+                                                     
+{'loss': 2.1503, 'grad_norm': 0.5234729051589966, 'learning_rate': 9.200000000000001e-05, 'epoch': 0.38}
+
+  8%|▊         | 2/25 [2:40:44<30:48:48, 4822.98s/it]
+ 12%|█▏        | 3/25 [4:01:11<29:29:05, 4824.81s/it]
+                                                     
+{'loss': 2.0382, 'grad_norm': 0.49628394842147827, 'learning_rate': 8.800000000000001e-05, 'epoch': 0.56}
+
+ 12%|█▏        | 3/25 [4:01:11<29:29:05, 4824.81s/it]
+ 16%|█▌        | 4/25 [5:21:42<28:09:25, 4826.94s/it]
+                                                     
+{'loss': 1.9106, 'grad_norm': 0.42820873856544495, 'learning_rate': 8.4e-05, 'epoch': 0.75}
+
+ 16%|█▌        | 4/25 [5:21:42<28:09:25, 4826.94s/it]
+ 20%|██        | 5/25 [6:42:12<26:49:26, 4828.32s/it]
+                                                     
+{'loss': 1.7864, 'grad_norm': 0.4443191587924957, 'learning_rate': 8e-05, 'epoch': 0.94}
+
+ 20%|██        | 5/25 [6:42:12<26:49:26, 4828.32s/it]
+ 24%|██▍       | 6/25 [8:02:44<25:29:18, 4829.40s/it]
+                                                     
+{'loss': 1.7119, 'grad_norm': 0.3014054000377655, 'learning_rate': 7.6e-05, 'epoch': 1.13}
+
+ 24%|██▍       | 6/25 [8:02:44<25:29:18, 4829.40s/it]
+ 28%|██▊       | 7/25 [9:23:13<24:08:48, 4829.35s/it]
+                                                     
+{'loss': 1.6331, 'grad_norm': 0.3333228528499603, 'learning_rate': 7.2e-05, 'epoch': 1.31}
+
+ 28%|██▊       | 7/25 [9:23:13<24:08:48, 4829.35s/it]
+ 32%|███▏      | 8/25 [10:43:32<22:47:21, 4825.96s/it]
+                                                      
+{'loss': 1.5774, 'grad_norm': 0.38600966334342957, 'learning_rate': 6.800000000000001e-05, 'epoch': 1.5}
+
+ 32%|███▏      | 8/25 [10:43:32<22:47:21, 4825.96s/it]
+ 36%|███▌      | 9/25 [12:03:48<21:26:06, 4822.90s/it]
+                                                      
+{'loss': 1.5052, 'grad_norm': 0.37959155440330505, 'learning_rate': 6.400000000000001e-05, 'epoch': 1.69}
+
+ 36%|███▌      | 9/25 [12:03:48<21:26:06, 4822.90s/it]
+ 40%|████      | 10/25 [13:24:03<20:05:08, 4820.56s/it]
+                                                       
+{'loss': 1.4287, 'grad_norm': 0.39107745885849, 'learning_rate': 6e-05, 'epoch': 1.88}
+
+ 40%|████      | 10/25 [13:24:03<20:05:08, 4820.56s/it]
+ 44%|████▍     | 11/25 [14:44:21<18:44:36, 4819.77s/it]
+                                                       
+{'loss': 1.3482, 'grad_norm': 0.37284383177757263, 'learning_rate': 5.6000000000000006e-05, 'epoch': 2.06}
+
+ 44%|████▍     | 11/25 [14:44:21<18:44:36, 4819.77s/it]
+ 48%|████▊     | 12/25 [16:04:40<17:24:10, 4819.30s/it]
+                                                       
+{'loss': 1.2978, 'grad_norm': 0.32942497730255127, 'learning_rate': 5.2000000000000004e-05, 'epoch': 2.25}
+
+ 48%|████▊     | 12/25 [16:04:40<17:24:10, 4819.30s/it]
+ 52%|█████▏    | 13/25 [17:24:57<16:03:43, 4818.60s/it]
+                                                       
+{'loss': 1.2515, 'grad_norm': 0.30995216965675354, 'learning_rate': 4.8e-05, 'epoch': 2.44}
+
+ 52%|█████▏    | 13/25 [17:24:57<16:03:43, 4818.60s/it]
+ 56%|█████▌    | 14/25 [18:45:14<14:43:21, 4818.30s/it]
+                                                       
+{'loss': 1.2052, 'grad_norm': 0.26821720600128174, 'learning_rate': 4.4000000000000006e-05, 'epoch': 2.63}
+
+ 56%|█████▌    | 14/25 [18:45:14<14:43:21, 4818.30s/it]
+ 60%|██████    | 15/25 [20:05:32<13:23:03, 4818.31s/it]
+                                                       
+{'loss': 1.1751, 'grad_norm': 0.3910965621471405, 'learning_rate': 4e-05, 'epoch': 2.82}
+
+ 60%|██████    | 15/25 [20:05:32<13:23:03, 4818.31s/it]
+ 64%|██████▍   | 16/25 [21:25:51<12:02:44, 4818.31s/it]
+                                                       
+{'loss': 1.1577, 'grad_norm': 0.26187846064567566, 'learning_rate': 3.6e-05, 'epoch': 3.0}
+
+ 64%|██████▍   | 16/25 [21:25:51<12:02:44, 4818.31s/it]
+ 68%|██████▊   | 17/25 [22:46:09<10:42:25, 4818.23s/it]
+                                                       
+{'loss': 1.1316, 'grad_norm': 0.2638097405433655, 'learning_rate': 3.2000000000000005e-05, 'epoch': 3.19}
+
+ 68%|██████▊   | 17/25 [22:46:09<10:42:25, 4818.23s/it]
+ 72%|███████▏  | 18/25 [24:06:27<9:22:07, 4818.15s/it] 
+                                                      
+{'loss': 1.1085, 'grad_norm': 0.2535703480243683, 'learning_rate': 2.8000000000000003e-05, 'epoch': 3.38}
+
+ 72%|███████▏  | 18/25 [24:06:27<9:22:07, 4818.15s/it]
+ 76%|███████▌  | 19/25 [25:26:46<8:01:51, 4818.51s/it]
+                                                      
+{'loss': 1.0859, 'grad_norm': 0.26501110196113586, 'learning_rate': 2.4e-05, 'epoch': 3.57}
+
+ 76%|███████▌  | 19/25 [25:26:46<8:01:51, 4818.51s/it]
+ 80%|████████  | 20/25 [26:47:06<6:41:34, 4818.97s/it]
+                                                      
+{'loss': 1.0627, 'grad_norm': 0.2508559823036194, 'learning_rate': 2e-05, 'epoch': 3.75}
+
+ 80%|████████  | 20/25 [26:47:06<6:41:34, 4818.97s/it]
+ 84%|████████▍ | 21/25 [28:07:38<5:21:30, 4822.71s/it]
+                                                      
+{'loss': 1.0549, 'grad_norm': 0.22707875072956085, 'learning_rate': 1.6000000000000003e-05, 'epoch': 3.94}
+
+ 84%|████████▍ | 21/25 [28:07:38<5:21:30, 4822.71s/it]
+ 88%|████████▊ | 22/25 [29:28:09<4:01:16, 4825.36s/it]
+                                                      
+{'loss': 1.031, 'grad_norm': 0.23661476373672485, 'learning_rate': 1.2e-05, 'epoch': 4.13}
+
+ 88%|████████▊ | 22/25 [29:28:09<4:01:16, 4825.36s/it]
+ 92%|█████████▏| 23/25 [30:48:40<2:40:53, 4826.97s/it]
+                                                      
+{'loss': 1.02, 'grad_norm': 0.21961888670921326, 'learning_rate': 8.000000000000001e-06, 'epoch': 4.32}
+
+ 92%|█████████▏| 23/25 [30:48:40<2:40:53, 4826.97s/it]
+ 96%|█████████▌| 24/25 [32:09:07<1:20:27, 4827.04s/it]
+                                                      
+{'loss': 1.0148, 'grad_norm': 0.20162470638751984, 'learning_rate': 4.000000000000001e-06, 'epoch': 4.5}
+
+ 96%|█████████▌| 24/25 [32:09:07<1:20:27, 4827.04s/it]
+100%|██████████| 25/25 [33:29:37<00:00, 4828.05s/it]  
+                                                    
+{'loss': 1.0164, 'grad_norm': 0.2333744913339615, 'learning_rate': 0.0, 'epoch': 4.69}
+
+100%|██████████| 25/25 [33:29:37<00:00, 4828.05s/it]Saving model checkpoint to ./model_output/llama70_new-2/checkpoint-25
+loading configuration file config.json from cache at /data/uijih/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": [
+    128001,
+    128008,
+    128009
+  ],
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in ./model_output/llama70_new-2/checkpoint-25/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new-2/checkpoint-25/special_tokens_map.json
+
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+
+                                                    
+{'train_runtime': 120609.8114, 'train_samples_per_second': 0.113, 'train_steps_per_second': 0.0, 'train_loss': 1.3980619382858277, 'epoch': 4.69}
+
+100%|██████████| 25/25 [33:29:57<00:00, 4828.05s/it]
+100%|██████████| 25/25 [33:29:57<00:00, 4823.91s/it]
+tokenizer config file saved in ./model_output/llama70_new-2/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new-2/special_tokens_map.json
+Saving model checkpoint to ./model_output/llama70_new-2
+loading configuration file config.json from cache at /data/uijih/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-70B-Instruct/snapshots/945c8663693130f8be2ee66210e062158b2a9693/config.json
+Model config LlamaConfig {
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 128000,
+  "eos_token_id": [
+    128001,
+    128008,
+    128009
+  ],
+  "hidden_act": "silu",
+  "hidden_size": 8192,
+  "initializer_range": 0.02,
+  "intermediate_size": 28672,
+  "max_position_embeddings": 131072,
+  "mlp_bias": false,
+  "model_type": "llama",
+  "num_attention_heads": 64,
+  "num_hidden_layers": 80,
+  "num_key_value_heads": 8,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-05,
+  "rope_scaling": {
+    "factor": 8.0,
+    "high_freq_factor": 4.0,
+    "low_freq_factor": 1.0,
+    "original_max_position_embeddings": 8192,
+    "rope_type": "llama3"
+  },
+  "rope_theta": 500000.0,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 128256
+}
+
+tokenizer config file saved in ./model_output/llama70_new-2/tokenizer_config.json
+Special tokens file saved in ./model_output/llama70_new-2/special_tokens_map.json
+DONE!!
+wandb: - 0.006 MB of 0.006 MB uploaded
+wandb: \ 0.031 MB of 0.031 MB uploaded
+wandb: | 0.031 MB of 0.031 MB uploaded
+wandb: 
+wandb: Run history:
+wandb:         train/epoch ▁▁▂▂▂▂▃▃▃▄▄▄▅▅▅▅▆▆▆▇▇▇▇███
+wandb:   train/global_step ▁▁▂▂▂▂▃▃▃▄▄▄▅▅▅▅▆▆▆▇▇▇▇███
+wandb:     train/grad_norm ▇█▇▆▆▃▄▅▅▅▅▄▃▂▅▂▂▂▂▂▂▂▁▁▂
+wandb: train/learning_rate ██▇▇▇▇▆▆▆▅▅▅▅▄▄▄▃▃▃▂▂▂▂▁▁
+wandb:          train/loss █▇▇▆▅▅▅▄▄▃▃▃▂▂▂▂▂▂▁▁▁▁▁▁▁
+wandb: 
+wandb: Run summary:
+wandb:               total_flos 2.14318624800768e+18
+wandb:              train/epoch 4.69208
+wandb:        train/global_step 25
+wandb:          train/grad_norm 0.23337
+wandb:      train/learning_rate 0.0
+wandb:               train/loss 1.0164
+wandb:               train_loss 1.39806
+wandb:            train_runtime 120609.8114
+wandb: train_samples_per_second 0.113
+wandb:   train_steps_per_second 0.0
+wandb: 
+wandb: 🚀 View run ./model_output/llama70_new-2 at: https://wandb.ai/uijis/huggingface/runs/kw8wvqvu
+wandb: ⭐️ View project at: https://wandb.ai/uijis/huggingface
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20241204_103152-kw8wvqvu/logs
+wandb: WARNING The new W&B backend becomes opt-out in version 0.18.0; try it out with `wandb.require("core")`! See https://wandb.me/wandb-core for more information.
+Model Loading!
+
+Loading checkpoint shards:   0%|          | 0/30 [00:00<?, ?it/s]
+Loading checkpoint shards:   3%|▎         | 1/30 [00:11<05:29, 11.37s/it]
+Loading checkpoint shards:   7%|▋         | 2/30 [00:23<05:37, 12.07s/it]
+Loading checkpoint shards:  10%|█         | 3/30 [00:37<05:41, 12.63s/it]
+Loading checkpoint shards:  13%|█▎        | 4/30 [00:50<05:33, 12.85s/it]
+Loading checkpoint shards:  17%|█▋        | 5/30 [01:02<05:13, 12.54s/it]
+Loading checkpoint shards:  20%|██        | 6/30 [01:14<04:57, 12.42s/it]
+Loading checkpoint shards:  23%|██▎       | 7/30 [01:26<04:39, 12.15s/it]
+Loading checkpoint shards:  27%|██▋       | 8/30 [01:37<04:24, 12.01s/it]
+Loading checkpoint shards:  30%|███       | 9/30 [01:46<03:47, 10.85s/it]
+Loading checkpoint shards:  33%|███▎      | 10/30 [01:53<03:17,  9.88s/it]
+Loading checkpoint shards:  37%|███▋      | 11/30 [02:00<02:49,  8.91s/it]
+Loading checkpoint shards:  40%|████      | 12/30 [02:08<02:33,  8.50s/it]
+Loading checkpoint shards:  43%|████▎     | 13/30 [02:16<02:23,  8.43s/it]
+Loading checkpoint shards:  47%|████▋     | 14/30 [02:25<02:18,  8.68s/it]
+Loading checkpoint shards:  50%|█████     | 15/30 [02:35<02:16,  9.07s/it]
+Loading checkpoint shards:  53%|█████▎    | 16/30 [02:45<02:10,  9.35s/it]
+Loading checkpoint shards:  57%|█████▋    | 17/30 [02:56<02:05,  9.66s/it]
+Loading checkpoint shards:  60%|██████    | 18/30 [03:07<02:02, 10.24s/it]
+Loading checkpoint shards:  63%|██████▎   | 19/30 [03:19<01:57, 10.70s/it]
+Loading checkpoint shards:  67%|██████▋   | 20/30 [03:29<01:45, 10.55s/it]
+Loading checkpoint shards:  70%|███████   | 21/30 [03:39<01:33, 10.42s/it]
+Loading checkpoint shards:  73%|███████▎  | 22/30 [03:50<01:23, 10.38s/it]
+Loading checkpoint shards:  77%|███████▋  | 23/30 [04:01<01:14, 10.69s/it]
+Loading checkpoint shards:  80%|████████  | 24/30 [04:11<01:03, 10.65s/it]
+Loading checkpoint shards:  83%|████████▎ | 25/30 [04:22<00:53, 10.69s/it]
+Loading checkpoint shards:  87%|████████▋ | 26/30 [04:32<00:41, 10.30s/it]
+Loading checkpoint shards:  90%|█████████ | 27/30 [04:41<00:29,  9.89s/it]
+Loading checkpoint shards:  93%|█████████▎| 28/30 [04:46<00:16,  8.47s/it]
+Loading checkpoint shards:  97%|█████████▋| 29/30 [04:51<00:07,  7.57s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [04:54<00:00,  6.04s/it]
+Loading checkpoint shards: 100%|██████████| 30/30 [04:54<00:00,  9.81s/it]
+Model Loaded!
+Tokenizer vocab size: 128256
+Model vocab size: 128256
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:572: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Results saved to ./idiom_detection_results-2.csv
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:567: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0.6` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+/data/uijih/anaconda3/envs/python3.11.3/lib/python3.11/site-packages/transformers/generation/configuration_utils.py:572: UserWarning: `do_sample` is set to `False`. However, `top_p` is set to `0.9` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `top_p`.
+  warnings.warn(
+Results saved to ./idiom_detection_none_results-2.csv

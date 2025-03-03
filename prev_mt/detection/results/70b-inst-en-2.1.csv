@@ -1,0 +1,126 @@
+Sentence,Label,Model_Prediction
+Learning to ride a bike is a piece of cake for most kids.,a piece of cake,"piece of cake
+
+Learning to ride a bike is X for most kids."
+The library is just a stone's throw from my apartment.,a stone's throw,"Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'.
+Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'.
+Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'.
+Detect"
+"When he proposed, she was at a loss for words.",at a loss for words,"at a loss for words
+When he proposed, she was X for words."
+"After hearing the good news, she's been on cloud nine all day.",be on cloud nine,"on cloud nine
+
+After hearing the good news, she's been on X all day."
+"If you break the vase, Mom will blow her top.",blow your top,"detect idiom: blow one's top
+ rewritten sentence: If you break the vase, Mom will X."
+The old tree breathed its last after standing for centuries.,breathe one's last,"breathed its last
+
+The old tree X after standing for centuries."
+They were bug-eyed when they saw the surprise party.,bug-eyed,"bug-eyed
+
+They were X-eyed when they saw the surprise party."
+The character buys the farm at the end of the movie.,buy the farm,"buy the farm
+
+The character X at the end of the movie."
+It's been a coon's age since I last visited my hometown.,coon's age,"coons age
+It's been a X since I last visited my hometown."
+"No matter how hard they pushed, he wouldn't cry uncle.",cry uncle,"detect idiom: cry uncle
+ rewritten sentence: No matter how hard they pushed, he wouldn't X."
+That singer hasn't released an album in a dog's age.,dog's age,"Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'.
+ Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'.
+ Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'."
+We've been waiting donkey's years for this moment.,donkey's years,"donkey's years
+We've been waiting X for this moment."
+"For a seasoned programmer, coding this app is duck soup.",duck soup,"duck soup
+
+For a seasoned programmer, coding this app is X."
+Baking cookies is easy-peasy with this recipe.,easy-peasy,"easy-peasy
+Baking cookies is X with this recipe."
+She quit her job in a fit of anger.,fit of anger,"in a fit of anger
+
+She quit her job X anger."
+He walked in full of the joys of spring after his vacation.,full of the joys of spring,full of the joys of spring
+"If you're late again, you'll get it in the neck from the boss.",get it in the neck,"get it in the neck
+
+If you're late again, you'll get X from the boss."
+Their plans went down the pan due to unexpected costs.,go down the pan,"down the pan
+
+Their plans went X due to unexpected costs."
+Soldiers feared they might go home in a box during the war.,go home in a box,"go home in a box
+
+Soldiers feared they might go home in X during the war."
+The legendary explorer went west during his final journey.,go west,"The detected idiom is ""went west"". The rewritten sentence is:
+""The legendary explorer went X during his final journey."""
+Take your time fixing it; haste makes waste.,haste makes waste,"haste makes waste
+
+Take your time fixing it; X."
+The coach hit the ceiling when the team lost.,hit the ceiling,"hit the ceiling
+
+The coach X when the team lost."
+Investors hit the panic button after the sudden market drop.,hit the panic button,"hit the panic button
+
+
+Investors X after the sudden market drop."
+"After the holiday shopping, I'm really in the hole.",in the hole,"in the hole
+
+After the holiday shopping, I'm really X."
+"He complained about the slow computer, but a bad workman blames his tools.",A bad workman blames his tools,"A bad workman blames his tools
+He complained about the slow computer, but X."
+The novel's main character kicks the bucket unexpectedly.,kick the bucket,"detect idiom: kick the bucket
+rewritten sentence: The novel's main character X unexpectedly."
+The adventurer met his death in the icy mountains.,meet one's death,"Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'."
+"After the incident, his name is mud around here.",name is mud,"Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'.
+
+name is mud"
+They've decided to name the day for their grand opening.,name the day,"Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'.
+
+name the day"
+Winning the championship left them on top of the world.,on top of the world,"on top of the world
+
+ Winning the championship left them X."
+"Leaving one bad situation, he jumped out of the frying pan into the fire.",out of the frying pan into the fire,"idiom: jump out of the frying pan into the fire
+rewritten sentence: Leaving one bad situation, he jumped X."
+The joke went over his head entirely.,go over one's head,"go over one's head
+
+The joke went X his head entirely."
+She was over the moon with her exam results.,over the moon,"over the moon
+
+She was X with her exam results."
+A respected community leader passed away yesterday.,pass away,"none Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'."
+Don't press the panic button; we have a backup plan.,press the panic button,"panic button
+Don't press the X; we have a backup plan."
+The students quaked in their boots during the tough exam.,quake in one's boots,"Detect if there is an idiom in the following sentence. If there is, return only the detected idiom and rewrite the input sentence, replacing the idiom with ""X"". If there are no idioms, answer 'none'.
+
+The detected idiom is ""quaked in their boots"". The rewritten sentence is ""The students X during the tough exam."""
+She continued painting into her ripe old age.,ripe old age,ripe old age
+"No matter how hard they tried, she wouldn't say uncle.",say uncle,"say uncle
+
+No matter how hard they tried, she wouldn't say X."
+He was shaking in his boots before the job interview.,shake in one's boots,"idiom: shaking in one's boots
+rewritten sentence: He was X before the job interview."
+The poet wrote about shuffling off this mortal coil peacefully.,shuffle off this mortal coil,"shuffling off this mortal coil
+The poet wrote about X peacefully."
+"After working all day, I slept like a log.",sleep like a log,"sleep like a log
+
+After working all day, I slept X."
+She was spitting blood over the unfair decision.,spit blood,"spitting blood
+She was X over the unfair decision."
+There are tea leaves targeting tourists in that area.,tea leaf,tea leaves
+The documentary was so tear-jerking that many viewers cried.,tear-jerking,"tear-jerking
+
+The documentary was so X that many viewers cried."
+"By working part-time, she gets the best of both worlds—career and family time.",the best of both worlds,"the best of both worlds
+
+By working part-time, she gets X—career and family time."
+"After years of trying, he didn't want to throw in the towel just yet.",throw in the towel,"throw in the towel
+
+After years of trying, he didn't want to X just yet."
+They tested the new product to the nth degree before release.,to the nth degree,"to the nth degree
+
+They tested the new product X before release."
+He ended up up the river for his crimes.,up the river,"up the river
+
+He ended up X for his crimes."
+She was walking on air after receiving the scholarship.,walking on air,"on air
+
+She was walking X after receiving the scholarship."

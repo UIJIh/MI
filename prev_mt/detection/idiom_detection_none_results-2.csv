@@ -1,0 +1,1561 @@
+English Sentence,Detected Idiom (EN),Korean Sentence,Detected Idiom (KR),Label
+The instructions were so simple that it was effortless to follow.,"""None""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the students to take it",이 작업은 너무 간단해서 쉽게 끝낼 수 있었다.,"""None""
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사",
+The park is only a short walk from my house.,"""None""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the student to take a seat and listen to the lecture.""
+Output:  ""None""
+
+Sentence: ""The new employee is eager to learn the ropes and become a valuable member of the team.""
+Output:  ""learn the ropes""
+
+Sentence: ""The city is a great place to visit, but it's not all it's cracked up to be.""
+Output:  ""all it's cracked up to be""
+
+Sentence: ""The teacher gave the student a lot of homework, but the student was able to cut to the chase and finish it quickly.""
+Output:",집에서 공원까지는 가까워서 금방 갈 수 있다.,"""None""
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사",
+He was so shocked that he couldn't say anything.,"""None""
+
+Sentence: ""The company will turn over a new leaf and start fresh.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the student to take a seat and be quiet.""
+Output:  ""None""
+
+Sentence: ""The company will have to bite the bullet and lay off some employees.""
+Output:  ""bite the bullet""
+
+Sentence: ""The teacher asked the student to take a seat and be quiet.""
+Output:  ""None""
+
+Sentence: ""The company will have to bite the bullet and lay off some employees.""
+Output:  ""bite the bullet""
+
+Sentence: ""The teacher asked the student to take a seat and be quiet.""
+Output:  ""None""
+
+Sentence: ""The company will",그 소식을 듣고 너무 놀라서 말이 나오지 않았다.,"""말이 나오지 않았다""Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output: ""None""Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output: ""None""Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output: ""None""Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output: ""None""Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output: ""None""Sentence: ""그는 그만의 방",
+She was ecstatic after hearing the good news.,"""None""
+
+Sentence: ""He's been feeling under the weather lately.""
+Output:  ""under the weather""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go belly up if they don't change their business strategy.""
+Output:  ""go belly up""
+
+Sentence: ""The new policy is a bitter pill to swallow for many employees.""
+Output:  ""bitter pill to swallow""
+
+Sentence: ""The city is a melting pot of different cultures.""
+Output:  ""melting pot""
+
+Sentence: ""The teacher gave",좋은 소식을 듣고 기분이 매우 좋았다.,"""None""
+
+Sentence: ""그는 매우 부유하고 있다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있다.""
+Output: ""None""
+
+Sentence:",
+She lost her temper when she realized her project was deleted accidentally.,"""None""
+
+Sentence: ""He is a great guy, but he is always burning the midnight oil.""
+Output:  ""burning the midnight oil""
+
+Sentence: ""I am not sure what to do, but I will cross that bridge when I come to it.""
+Output:  ""cross that bridge when I come to it""
+
+Sentence: ""I am not sure what to do, but I will cross that bridge when I come to it, but I will not cry over spilled milk.""
+Output:  ""cross that bridge when I come to it"" and ""cry over spilled milk""
+
+Sentence: ""I am not sure what to do, but I will cross that bridge when I come to it, but I will not cry over",프로젝트가 실수로 삭제된 것을 알고 매우 화가 났다.,"""None""
+
+Sentence: ""그는 매우 부유하고 싶었지만, 그는 결국 부유하지 못했다.""
+Output:  ""None""
+
+Sentence: ""그는 매우 부유하고 싶었지만, 그는 결국 부유하지 못했다.""
+Output:  ""None""
+
+Sentence: ""그는 매우 부유하고 싶었지만, 그는 결국 부유하지 못했다.""
+Output:  ""None""
+
+Sentence: ""그는 매우 부유하고 싶었지만, 그는 결국 부유하지 못했다.""
+Output:  ""None",
+The old man passed away peacefully in his sleep.,"""None""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is in a tight spot financially.""
+Output:  ""tight spot""
+
+Sentence: ""The teacher told the students to take a rain check.""
+Output:  ""take a rain check""
+
+Sentence: ""The company is trying to cut to the chase and resolve the issue quickly.""
+Output:  ""cut to the chase""
+
+Sentence",그는 조용히 잠든 채 세상을 떠났다.,"""None""
+
+Sentence: ""그는 조용히 잠든 채 세상을 떠났다.""
+Output:  ""None""
+
+Sentence: ""그는 조용히 잠든 채 세상을 떠났다.""
+Output:  ""None""
+
+Sentence: ""그는 조용히 잠든 채 세상을 떠났다.""
+Output:  ""None""
+
+Sentence: ""그는 조용히 잠든 채 세상을 떠났다.""
+Output:  ""None""
+
+Sentence: ""그는 조용히 잠든 채 세상을 떠났다.""
+Output:  ""None""
+
+Sentence: ""그",
+The children stared wide-eyed at the magician's tricks.,"""None""
+
+Sentence: ""The company will go under unless we can turn over a new leaf.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go under unless we can turn over a new leaf.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The children stared wide-eyed at the magician's tricks.""",아이들은 마술사의 묘기를 보고 두 눈이 동그래졌다.,"""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 일으킬 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 일으킬 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 일으킬 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 일으킬 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의",
+The soldier didn't survive the battle.,"""None""
+
+Sentence: ""The company will go under if they don't find a new investor.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go under if they don't find a new investor.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it",그 병사는 전투에서 살아남지 못했다.,"""None""
+
+Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식",
+I finally visited my hometown after so many years.,"""None""
+
+Sentence: ""The company will go under if they don't find a new investor soon.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the students to take out their books and turn to page five.""
+Output:  ""None""
+
+Sentence: ""The new employee is really struggling to find his feet in the company.""
+Output:  ""find his feet""
+
+Sentence: ""The new smartphone is selling like hotcakes.""
+Output:  ""selling like hotcakes""
+
+Sentence: ""The teacher asked the students to take out their books and turn to page five.""
+Output:  ""None""
+
+Sentence: ""The company will go under if they don't find a new investor soon.""
+Output:  ""go under""
+
+Sentence:",오랜만에 고향에 돌아왔다.,"""고향에 돌아왔다""Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output:  ""10년 동안이나""Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output:  ""10년 동안이나""Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output:  ""10년 동안이나""Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output:  ""10년 동안이나""Sentence: ""그는 10년 동안이나 그",
+The team finally conceded after hours of competition.,"""None""
+
+Sentence: ""The company is going to go under unless they can find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the students to take out their books and turn to page 32.""
+Output:  ""None""
+
+Sentence: ""The new employee is really struggling to find his feet in the company.""
+Output:  ""find his feet""
+
+Sentence: ""The company is going to have to bite the bullet and make some tough decisions.""
+Output:  ""bite the bullet""
+
+Sentence: ""The teacher asked the students to take out their books and turn to page 32.""
+Output:  ""None""
+
+Sentence: ""The new employee is really struggling to find his feet in the company",오랜 시간의 경쟁 끝에 결국 팀은 패배를 인정했다.,"""None""
+
+Sentence: ""그는 자신의 실력을 믿고, 큰 도전을 감행했다.""
+Output:  ""None""
+
+Sentence: ""그는 자신의 실력을 믿고, 큰 도전을 감행했다.""
+Output:  ""None""
+
+Sentence: ""그는 자신의 실력을 믿고, 큰 도전을 감행했다.""
+Output:  ""None""
+
+Sentence: ""그는 자신의 실력을 믿고, 큰 도전을 감행했다.""
+Output:  ""None""
+
+Sentence: ""그는 자신의 실력을 믿",
+I haven't played this game in years.,"""None""
+
+Sentence: ""I'm reading a book about the history of the world.""
+Output:  ""None""
+
+Sentence: ""I'm feeling under the weather today.""
+Output:  ""under the weather""
+
+Sentence: ""I'm going to the store to buy some milk.""
+Output:  ""None""
+
+Sentence: ""I'm feeling really down in the dumps today.""
+Output:  ""down in the dumps""
+
+Sentence: ""I'm going to the movies tonight.""
+Output:  ""None""
+
+Sentence: ""I'm feeling really burned out from work.""
+Output:  ""burned out""
+
+Sentence: ""I'm going to the park to walk my dog.""
+Output:  ""None""
+
+Sentence: ""I'm feeling really on edge today",정말 오랜만에 이 게임을 다시 해본다.,"""None""
+
+Sentence: ""그는 10년 동안이나 그 게임을 해왔다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 게임을 해왔다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 게임을 해왔다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 게임을 해왔다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 게임을",
+It's been ages since I last visited this place.,"""ages since I last visited this place"" is not correct. The correct output is: ""ages"" 
+
+ Sentence: ""I'm reading a book about the history of the world, and it's really interesting.""
+Output: ""None""
+
+ Sentence: ""The new employee is really struggling to find his feet in the company.""
+Output: ""find his feet""
+
+ Sentence: ""I'm so excited for my birthday party tonight, it's going to be a blast.""
+Output: ""blast""
+
+ Sentence: ""The teacher asked the student to take a seat and listen to the lesson.""
+Output: ""None""
+
+ Sentence: ""The company is in a tight spot financially, but the CEO is trying to turn over a new leaf.""
+Output: ""turn over",정말 오랜만에 이곳에 방문했다.,"""None""
+
+Sentence: ""그는 10년간의 노력 끝에 드디어 성공을 거두었다.""
+Output: ""드디어"" 
+
+Sentence: ""그는 10년간의 노력 끝에 드디어 성공을 거두었다.""
+Output: ""드디어"" 
+
+Sentence: ""그는 10년간의 노력 끝에 드디어 성공을 거두었다.""
+Output: ""드디어"" 
+
+Sentence: ""그는 10년간의 노력 끝에 드디어 성공을 거두었다.""
+Output: ""드디어""",
+The task was simple and could be done without much effort.,"""None""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The task was simple and could be done",이 일은 아주 간단해서 쉽게 끝낼 수 있었다.,"""None""
+
+Sentence: ""그는 이사 온 지 3일 만에 이사를 다시 하게 되었다.""
+Output: ""None""
+
+Sentence: ""그는 이사 온 지 3일 만에 이사를 다시 하게 되었다.""
+Output: ""None""
+
+Sentence: ""그는 이사 온 지 3일 만에 이사를 다시 하게 되었다.""
+Output: ""None""
+
+Sentence: ""그는 이사 온 지 3일 만에 이사를 다시 하게 되었다.""
+Output: ""None""
+
+Sentence: ""그는 이사 온",
+The new software is so user-friendly it's easy to understand.,"""None""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is in a tight spot and needs to find a way out.""
+Output:  ""tight spot""
+
+Sentence: ""The teacher told the students to take a rain check.""
+Output:  ""take a rain check""
+
+Sentence: ""The new policy is a bitter pill to swallow.""
+Output:  ""bitter",새 소프트웨어는 사용이 간편해서 쉽게 익힐 수 있다.,"""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 강해 밤낮 없이 일한다.""
+Output: ""밤낮 없이 일한다""",
+She reacted sharply showing her frustration.,"""None""
+
+Sentence: ""He is a very smart person and always thinks outside the box.""
+Output:  ""thinks outside the box""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is in a tight spot and needs to find a way out.""
+Output:  ""tight spot""
+
+Sentence: ""The teacher told the students to think outside the box.""
+Output:  ""think outside the box",그녀는 참을 수 없는 화가 나서 크게 소리쳤다.,"""None""
+
+Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 일하고 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그",
+She was beaming with happiness after winning the prize.,"""None""
+
+Sentence: ""He's been feeling under the weather lately.""
+Output:  ""under the weather""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company is going through a rough patch.""
+Output:  ""going through a rough patch""
+
+Sentence: ""The new policy is a bitter pill to swallow.""
+Output:  ""a bitter pill to swallow""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: """,그녀는 상을 받은 후 기쁨에 넘쳤다.,"""기쁨에 넘쳤다""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의",
+He was reprimanded for missing the deadline.,"""None""
+
+Sentence: ""The company will turn over a new leaf and start fresh.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is in a tight spot financially.""
+Output:  ""tight spot""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The",마감일을 지키지 않아 심한 꾸지람을 들었다.,"""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그",
+The project collapsed due to a lack of funding.,"""None""
+
+Sentence: ""The company will turn over a new leaf and focus on sustainability.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The city is a melting pot of different cultures.""
+Output:  ""melting pot""
+
+Sentence: ""The company is in a tight spot financially.""
+Output:  ""tight spot""
+
+Sentence: ""The teacher gave the student a pat on the back for a job well done.""
+Output:  ""pat on the back""
+
+Sentence: ""The",자금 부족으로 프로젝트가 실패로 돌아갔다.,"""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열",
+The soldier didn't make it back alive from the mission.,"""None""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is trying to cut to the chase and resolve the issue quickly.""
+Output:  ""cut to the chase""
+
+Sentence: ""The teacher told the students to take a rain check and reschedule for another day.""
+Output:  ""take a rain check""
+
+Sentence: ""The company is trying to get back on the",그 병사는 임무를 수행 중 목숨을 잃었다.,"""목숨을 잃었다""Sentence: ""그는 10년 동안이나 그 회사를 위해 일했다.""
+Output: ""None""Sentence: ""그는 10년 동안이나 그 회사를 위해 일했다.""
+Output: ""None""Sentence: ""그는 10년 동안이나 그 회사를 위해 일했다.""
+Output: ""None""Sentence: ""그는 10년 동안이나 그 회사를 위해 일했다.""
+Output: ""None""Sentence: ""그는 10년 동안이나 그 회사를 위해 일했다.""",
+He passed away leaving behind a legacy.,"""None""
+
+Sentence: ""The company is going to go under, and we will all lose our jobs.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company is going to go under, and we will all lose our jobs.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:",그는 많은 것을 남기고 세상을 떠났다.,"""None""
+
+Sentence: ""그는 많은 것을 남기고 세상을 떠났다.""
+Output:  ""None""
+
+Sentence: ""그는 많은 것을 남기고 세상을 떠났다.""
+Output:  ""None""
+
+Sentence: ""그는 많은 것을 남기고 세상을 떠났다.""
+Output:  ""None""
+
+Sentence: ""그는 많은 것을 남기고 세상을 떠났다.""
+Output:  ""None""
+
+Sentence: ""그는 많은 것을 남기고 세상을 떠났다.""
+Output:  ""None""
+
+Sentence: ""그는 많은 것을 남기고",
+Take your time; rushing will only lead to mistakes.,"""Take your time""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the student to take a seat and listen carefully.""
+Output:  ""None""
+
+Sentence: ""The new employee is eager to learn the ropes and become a valuable member of the team.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is trying to cut to the chase and finalize the deal.""
+Output:  ""cut to the chase""
+
+Sentence: ""The teacher is trying to get through to the student, but they are not listening.""
+Output:  ""get through to""
+
+Sentence: ""The company is in a tight spot and needs",서두르지 말고 천천히 해야 실수를 줄일 수 있다.,"""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일",
+The coach remained calm despite the challenging situation.,"""None""
+
+Sentence: ""The company will turn over a new leaf and focus on sustainability.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is in a tight spot financially.""
+Output:  ""tight spot""
+
+Sentence: ""The teacher told the students to think outside the box.""
+Output:  ""think outside the box""
+
+Sentence: ""The new policy is a bitter pill to swallow.""
+Output:  ""bitter pill to swallow""
+
+Sentence: ""The company is on the",감독은 어려운 상황에도 침착함을 유지했다.,"""None""
+
+Sentence: ""그는 친구의 도움으로 어려운 시기를 잘 넘겼다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 어려운 시기를 잘 넘겼다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 어려운 시기를 잘 넘겼다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 어려운 시기를 잘 넘겼다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 어려운 시",
+His friends gathered to comfort him during his loss.,"""None""
+
+Sentence: ""The company will turn over a new leaf and start fresh next quarter.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is in a tight spot financially.""
+Output:  ""tight spot""
+
+Sentence: ""The teacher told the students to take a rain check.""
+Output:  ""take a rain check""
+
+Sentence: ""The company is trying to cut to the chase and resolve the issue quickly.""
+Output:  ""cut to the chase""
+
+Sentence:",그의 친구들이 슬픔에 빠진 그를 위로하기 위해 모였다.,"""None""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 희생할 준비가 되어 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 희생할 준비가 되어 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 희생할 준비가 되어 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 희생할 준비가 되어 있다.""
+Output:  ""None""
+
+Sentence: ""그는",
+She stood anxiously waiting for the test results.,"""None""
+
+Sentence: ""He's been feeling under the weather lately.""
+Output:  ""under the weather""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go the extra mile to satisfy their customers.""
+Output:  ""go the extra mile""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The",시험 결과를 초조하게 기다리고 있었다.,"""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수",
+She finally got a promotion after years of hard work.,"""None""
+
+Sentence: ""He's been feeling under the weather all week.""
+Output:  ""under the weather""
+
+Sentence: ""The new employee is really struggling to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take out their books and turn to page 32.""
+Output:  ""None""
+
+Sentence: ""The company will go bankrupt if they don't stop throwing money down the drain.""
+Output:  ""throwing money down the drain""
+
+Sentence: ""The kids love playing in the rain and jumping in puddles.""
+Output:  ""None""
+
+Sentence: ""After a few too many drinks, he started to feel a little green around the gills.""
+Output:  """,오랜 노력 끝에 드디어 승진을 받았다.,"""드디어""
+
+ Sentence: ""그는 10년간의 노력 끝에 드디어 승진을 받았다.""
+Output:  ""드디어""
+
+ Sentence: ""그는 10년간의 노력 끝에 드디어 승진을 받았다.""
+Output:  ""드디어""
+
+ Sentence: ""그는 10년간의 노력 끝에 드디어 승진을 받았다.""
+Output:  ""드디어""
+
+ Sentence: ""그는 10년간의 노력 끝에 드디어 승진을 받았다.""
+Output:",
+She was quietly preparing to leave for a new job.,"""None""
+
+Sentence: ""He's been feeling under the weather lately.""
+Output:  ""under the weather""
+
+Sentence: ""The company will go belly up if they don't get more funding.""
+Output:  ""go belly up""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is really struggling to cut to the chase.""
+Output:  ""cut to the chase""
+
+Sentence: ""The company is trying to get back on its feet after the scandal.""
+Output:  ""get back on its feet""
+
+Sentence: ""The teacher told the students to take a rain check.""
+Output:  ""take a rain check",새로운 직장을 위해 조용히 준비하고 있었다.,"""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""",
+He realized he had to make a difficult decision.,"""None""
+
+Sentence: ""The company will have to bite the bullet and lay off some employees.""
+Output:  ""bite the bullet""
+
+Sentence: ""The teacher asked the student to use his words.""
+Output:  ""use his words""
+
+Sentence: ""The new policy is a bitter pill to swallow for many employees.""
+Output:  ""bitter pill to swallow""
+
+Sentence: ""The company is in a tight spot and needs to find a solution quickly.""
+Output:  ""tight spot""
+
+Sentence: ""The teacher told the students to break a leg before they went on stage.""
+Output:  ""break a leg""
+
+Sentence: ""The cost of living in the city is very high, but the pay is also very good.""
+Output:",그는 어려운 결정을 내려야 한다는 것을 깨달았다.,"""None""
+
+Sentence: ""그는 어려운 결정을 내려야 한다는 것을 깨달았다.""
+Output: ""None""
+
+Sentence: ""그는 어려운 결정을 내려야 한다는 것을 깨달았다.""
+Output: ""None""
+
+Sentence: ""그는 어려운 결정을 내려야 한다는 것을 깨달았다.""
+Output: ""None""
+
+Sentence: ""그는 어려운 결정을 내려야 한다는 것을 깨달았다.""
+Output: ""None""
+
+Sentence: ""그는 어려운 결정을 내려야 한다는 것을 깨달았다.""
+Output:",
+She decided to step back and take a break.,"""None""
+
+Sentence: ""He's been feeling under the weather lately.""
+Output:  ""under the weather""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take a seat and be quiet.""
+Output:  ""None""
+
+Sentence: ""The company is going through a rough patch.""
+Output:  ""rough patch""
+
+Sentence: ""The new policy is a game-changer for the industry.""
+Output:  ""game-changer""
+
+Sentence: ""The teacher asked the students to take a seat and be quiet.""
+Output:  ""None""
+
+Sentence: ""The company is going through a rough patch.""
+Output:  ""rough patch""
+
+Sentence:",그녀는 한 발 물러서서 잠시 쉬기로 했다.,"""한 발 물러서서""
+
+ Sentence: ""그는 한 발 물러서서 잠시 쉬기로 했다.""
+Output:  ""한 발 물러서서""
+
+ Sentence: ""그는 한 발 물러서서 잠시 쉬기로 했다.""
+Output:  ""한 발 물러서서""
+
+ Sentence: ""그는 한 발 물러서서 잠시 쉬기로 했다.""
+Output:  ""한 발 물러서서""
+
+ Sentence: ""그는 한 발 물러서서 잠시 쉬기로 했다.""
+Output:  ""한 발",
+The manager was visibly upset with the poor performance.,"""None""
+
+Sentence: ""The company will turn over a new leaf and focus on sustainability.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is in a tight spot financially.""
+Output:  ""tight spot""
+
+Sentence: ""The teacher told the students to think outside the box.""
+Output:  ""think outside the box""
+
+Sentence: ""The new policy is a bitter pill to swallow.""
+Output:  ""bitter pill to swallow""
+
+Sentence: ""The company is on",매니저는 저조한 성과에 불만을 표했다.,"""None""
+
+Sentence: ""그는 10년간의 노력 끝에 드디어 성공을 거두었다.""
+Output: ""드디어"" 
+
+Sentence: ""그는 10년간의 노력 끝에 드디어 성공을 거두었다.""
+Output: ""드디어"" 
+
+Sentence: ""그는 10년간의 노력 끝에 드디어 성공을 거두었다.""
+Output: ""드디어"" 
+
+Sentence: ""그는 10년간의 노력 끝에 드디어 성공을 거두었다.""
+Output:",
+The project faced delays due to unforeseen issues.,"""None""
+
+Sentence: ""The company is trying to cut to the chase and resolve the issue quickly.""
+Output:  ""cut to the chase""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The manager is trying to get to the bottom of the issue.""
+Output:  ""get to the bottom of the issue""
+
+Sentence: ""The team is working hard to meet the deadline.""
+Output:  ""None""
+
+Sentence: ""The company is trying to make a mountain out of a molehill.""
+Output:  ""make a mountain",예상치 못한 문제로 프로젝트가 지연되었다.,"""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을 다시 시작할 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인생을",
+He watched the sun set feeling at peace.,"""None""
+
+Sentence: ""The company will turn over a new leaf and start fresh.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will turn over a new leaf and start fresh.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:",그는 평온한 기분으로 해가 지는 것을 바라보았다.,"""None""
+
+Sentence: ""그는 평온한 기분으로 해가 지는 것을 바라보았다.""
+Output:  ""None""
+
+Sentence: ""그는 평온한 기분으로 해가 지는 것을 바라보았다.""
+Output:  ""None""
+
+Sentence: ""그는 평온한 기분으로 해가 지는 것을 바라보았다.""
+Output:  ""None""
+
+Sentence: ""그는 평온한 기분으로 해가 지는 것을 바라보았다.""
+Output:  ""None""
+
+Sentence: ""그는 평온한 기분으로",
+They had to redo the work after noticing mistakes.,"""None""
+
+Sentence: ""The company will go under if they don't find a new investor.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the students to take out their books and turn to page five.""
+Output:  ""None""
+
+Sentence: ""The new employee is really struggling to find his feet in the company.""
+Output:  ""find his feet""
+
+Sentence: ""The new policy will come into effect next month.""
+Output:  ""come into effect""
+
+Sentence: ""The teacher asked the students to take out their books and turn to page five.""
+Output:  ""None""
+
+Sentence: ""The company will go under if they don't find a new investor.""
+Output:  ""go under""
+
+Sentence: ""The",실수를 발견하고 작업을 다시 해야 했다.,"""None""
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output:  ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output:  ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output:  ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output:  ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서",
+She patiently explained the process again.,"""None""
+
+Sentence: ""He's been feeling under the weather lately.""
+Output:  ""under the weather""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take out their books.""
+Output:  ""None""
+
+Sentence: ""The company will go belly up if they don't change their strategy.""
+Output:  ""go belly up""
+
+Sentence: ""The kids love to play outside when the sun shines brightly.""
+Output:  ""None""
+
+Sentence: ""The manager decided to give the new employee a second chance.""
+Output:  ""None""
+
+Sentence: ""The city is always on the go, day and night.""
+Output:  ""on the go""",그녀는 과정을 다시 한 번 차분하게 설명했다.,"""None""
+
+Sentence: ""그는 그저 한 줌 재가 되어버린 아버지의 유산을 받았다.""
+Output: ""한 줌 재가 되어버린""",
+The journey was long but the view was worth it.,"""None""
+
+Sentence: ""The company will turn over a new leaf and start fresh.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will turn over a new leaf and start fresh.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The journey was long but the view was worth it.""
+Output:  """,긴 여정이었지만 경치는 충분히 그럴만한 가치가 있었다.,"""None""
+
+Sentence: ""그는 그저 한 줌 재가 되어버린 채로 세상을 떠났다.""
+Output: ""한 줌 재가 되어버린""
+
+Sentence: ""그는 그저 한 줌 재가 되어버린 채로 세상을 떠났다.""
+Output: ""한 줌 재가 되어버린""
+
+Sentence: ""그는 그저 한 줌 재가 되어버린 채로 세상을 떠났다.""
+Output: ""한 줌 재가 되어버린""
+
+Sentence: ""그는 그",
+The team celebrated their victory after the match.,"""None""
+
+Sentence: ""The company will go under if they don't find a new investor soon.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go under if they don't find a new investor soon.""
+Output:  ""go under""
+
+Sentence: ""The team celebrated their victory after the match.""
+Output:  ""None""
+
+Sentence:",팀은 경기가 끝난 후 승리를 축하했다.,"""None""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 희생할 준비가 되어 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 다 바치다.""
+Output:  ""모든 것을 다 바치다""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 다 바치다.""
+Output:  ""모든 것을 다 바치다""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 다 바치다.""
+Output:  ""모든 것을 다 바치다""
+
+Sentence",
+The student studied diligently for the exam.,"""None""
+
+Sentence: ""The company will go under if they don't find a new investor.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go under if they don't find a new investor.""
+Output:  ""go under""
+
+Sentence: ""The student studied diligently for the exam.""
+Output:  ""None""
+
+Sentence: ""She plans to",학생은 시험을 위해 열심히 공부했다.,"""None""
+
+Sentence: ""그는 친구의 도움으로 큰 위기를 넘길 수 있었다.""
+Output: ""None""
+
+Sentence: ""그는 친구의 도움으로 큰 위기를 넘길 수 있었다.""
+Output: ""None""
+
+Sentence: ""그는 친구의 도움으로 큰 위기를 넘길 수 있었다.""
+Output: ""None""
+
+Sentence: ""그는 친구의 도움으로 큰 위기를 넘길 수 있었다.""
+Output: ""None""
+
+Sentence: ""그는 친구의 도움으로 큰 위기를 넘길 수 있었다.""
+Output: ""None""
+
+Sentence",
+The couple spent the evening enjoying a quiet dinner.,"""None""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the student to take a seat and listen to the lesson.""
+Output:  ""None""
+
+Sentence: ""The new employee is eager to learn the ropes and become a valuable member of the team.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is trying to cut to the chase and resolve the issue quickly.""
+Output:  ""cut to the chase""
+
+Sentence: ""The teacher gave the student a lot of homework, but the student was able to get a handle on it.""
+Output:  ""get a handle on it""
+
+Sentence: ""The company",부부는 저녁을 조용히 즐기며 시간을 보냈다.,"""None""
+
+Sentence: ""그는 가족을 먹여살리기 위해 밤낮 없이 일했다.""
+Output:  ""None""
+
+Sentence: ""그는 가족을 먹여살리기 위해 밤낮 없이 일했다.""
+Output:  ""None""
+
+Sentence: ""그는 가족을 먹여살리기 위해 밤낮 없이 일했다.""
+Output:  ""None""
+
+Sentence: ""그는 가족을 먹여살리기 위해 밤낮 없이 일했다.""
+Output:  ""None""
+
+Sentence: ""그는",
+The worker felt accomplished after completing the task.,"""None""
+
+Sentence: ""The company will go under if they don't find a new investor.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go under if they don't find a new investor.""
+Output:  ""go under""
+
+Sentence: ""The worker felt accomplished after completing the task.""
+Output:  ""None""
+
+Sentence: ""She",작업을 마치고 나니 성취감을 느꼈다.,"""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:",
+She spoke softly not wanting to disturb others.,"""None""
+
+Sentence: ""He's been feeling under the weather lately.""
+Output:  ""under the weather""
+
+Sentence: ""The teacher asked the students to take out their pencils and paper.""
+Output:  ""None""
+
+Sentence: ""The company will go belly up if they don't change their business strategy.""
+Output:  ""go belly up""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The weather forecast says it will rain cats and dogs tomorrow.""
+Output:  ""rain cats and dogs""
+
+Sentence: ""The manager is on the warpath after finding out about the missing funds.""
+Output:  ""on the warpath""
+
+Sentence: ""The new policy is a bitter",다른 사람을 방해하지 않기 위해 조용히 말했다.,"""None""
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사에서 일했다.""
+Output: ""10년 동안이나"" 
+
+Sentence: ""그는 10년 동안이나 그 회사",
+He carefully reviewed the documents before signing.,"""None""
+
+Sentence: ""The company will turn over a new leaf and start fresh.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The company is in a tight spot financially.""
+Output:  ""tight spot""
+
+Sentence: ""The teacher told the students to think outside the box.""
+Output:  ""think outside the box""
+
+Sentence: ""The new policy is a bitter pill to swallow.""
+Output:  ""bitter pill to swallow""
+
+Sentence: ""The company is on the same page",서명하기 전에 서류를 꼼꼼히 검토했다.,"""None""
+
+Sentence: ""그는 친구의 부탁을 들어주지 않았다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 부탁을 들어주지 않았다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 부탁을 들어주지 않았다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 부탁을 들어주지 않았다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 부탁을 들어주지 않았다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 부탁을",
+The dog was wagging its tail clearly excited.,"""None""
+
+Sentence: ""The company will turn over a new leaf and start fresh.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will turn over a new leaf and start fresh.""
+Output:  ""turn over a new leaf""
+
+Sentence: ""The dog was wagging its tail clearly excited.""
+Output:  ""None""",개가 꼬리를 흔들며 매우 신나 보였다.,"""None""
+
+Sentence: ""그는 매우 부유하고 있었다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있었다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있었다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있었다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있었다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있었다.""
+Output: ""None""
+
+Sentence: ""그는 매우 부유하고 있었다.""
+Output: ""None""
+
+Sentence",
+She couldn't stop smiling after hearing the good news.,"""None""
+
+Sentence: ""He's been feeling under the weather all week.""
+Output:  ""under the weather""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go out of business if it doesn't shape up soon.""
+Output:  ""shape up""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence",좋은 소식을 듣고 웃음을 멈출 수 없었다.,"""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열",
+The teacher praised the student for the excellent work.,"""None""
+
+Sentence: ""The company will go under if they don't find a new investor.""
+Output:  ""go under""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the students to take out their books.""
+Output:  ""None""
+
+Sentence: ""The company is in a tight spot financially.""
+Output:  ""tight spot""
+
+Sentence: ""The new policy will be implemented next month.""
+Output:  ""None""
+
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company is on the same page as the investors.""
+Output:",선생님은 훌륭한 작업을 한 학생을 칭찬했다.,"""None""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 희생할 준비가 되어 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 희생할 준비가 되어 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 희생할 준비가 되어 있다.""
+Output:  ""None""
+
+Sentence: ""그는 그의 아내를 위해 모든 것을 희생할 준비가 되어 있다.""
+Output:  ""None""
+
+Sentence: ""그는",
+The little girl was afraid to cross the street alone.,"""None""
+
+Sentence: ""The company will go under unless we can come up with a new business plan.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go under unless we can come up with a new business plan.""
+Output:  ""go under""
+
+Sentence: ""The little girl was afraid to cross the street alone.""
+Output:",어린 소녀는 혼자서 길을 건너는 것을 무서워했다.,"""None""
+
+Sentence: ""그는 친구의 도움으로 인해 큰 위기를 넘길 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인해 큰 위기를 넘길 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인해 큰 위기를 넘길 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 친구의 도움으로 인해 큰 위기를 넘길 수 있었다.""
+Output:  ""None""
+
+Sentence: ""그",
+He found a solution after brainstorming with the team.,"""None""
+
+Sentence: ""The company will go under if they don't find a way to stay afloat.""
+Output:  ""stay afloat""
+
+Sentence: ""The teacher asked the students to take out their books and turn to page five.""
+Output:  ""None""
+
+Sentence: ""The new employee is eager to learn the ropes and become a valuable member of the team.""
+Output:  ""learn the ropes""
+
+Sentence: ""The city is a great place to visit, but the cost of living is through the roof.""
+Output:  ""through the roof""
+
+Sentence: ""The teacher gave the students a lot of homework, but they were able to get it all done in one sitting.""
+Output:  ""None""
+
+Sentence: """,팀과 함께 브레인스토밍을 하며 해결책을 찾았다.,"""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 있었다.""
+Output",
+The weather was perfect for a picnic by the lake.,"""None""
+
+Sentence: ""The company will go under unless we can come up with a new business plan.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Sentence: ""The company will go under unless we can come up with a new business plan.""
+Output:  ""go under""
+
+Sentence: ""The teacher asked the student to take it with a grain of salt",호수 옆에서 피크닉하기에 완벽한 날씨였다.,"""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르지 않았다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르지 않았다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르지 않았다.""
+Output:  ""None""
+
+Sentence: ""그는 일에 대한 열정과 책임감이 남다르지 않았다.""
+Output:  ""None""
+
+Sentence: """,
+She wrapped the gift with care adding a ribbon.,"""None""
+
+Sentence: ""He's been feeling under the weather lately.""
+Output:  ""under the weather""
+
+Sentence: ""The teacher asked the students to take out their pencils and paper.""
+Output:  ""None""
+
+Sentence: ""The company will go belly up if they don't change their business strategy.""
+Output:  ""go belly up""
+
+Sentence: ""The new employee is eager to learn the ropes.""
+Output:  ""learn the ropes""
+
+Sentence: ""The weather forecast says it will rain cats and dogs tomorrow.""
+Output:  ""rain cats and dogs""
+
+Sentence: ""The manager is on the warpath about the recent sales decline.""
+Output:  ""on the warpath""
+
+Sentence: ""The new policy is a bitter pill",그녀는 선물을 정성스럽게 포장하고 리본을 달았다.,"""None""
+
+Sentence: ""그는 그만의 방식으로 문제를 해결했다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 문제를 해결했다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 문제를 해결했다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 문제를 해결했다.""
+Output:  ""None""
+
+Sentence: ""그는 그만의 방식으로 문제를 해결했다.""
+Output:  """,

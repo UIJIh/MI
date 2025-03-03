@@ -1,0 +1,81 @@
+English Sentence,Detected Idiom (EN),Korean Sentence,Detected Idiom (KR)
+ The exam was a piece of cake,"""piece of cake""", 겉보리 돈 사기가 수양딸로 며느리 삼기보다 쉽다고 이 정도 일이면 만족하고 해야지.,"""겉보리 돈 사기"""
+ The apartment is just a stone's throw from the sea.,"""a stone's throw""", 그의 직장은 집에서 엎드러지면 코 닿을 거리에 있었다.,"""엎드러지면"""
+ She was at a loss for words when she saw the number of people who had come to grieve for her husband.,"""at a loss for words""", 그녀는 그때의 처참한 광경을 보고 혀가 내둘렸다.,"""None"""
+ Was Helen pleased about getting that job? She was on cloud nine!,"""on cloud nine”", 마침내 취직에 성공한 나는 잔치날에 큰상 받은 기분만 같았다.,"""잔치날에 큰상 받은"""
+ My father will blow his top when he sees what happened to the car.,"""blow his top""", 비싼 돈 주고 형편없는 대접을 받은 손님은 화가 머리끝까지 나고야 말았다.,"""화가 머리끝까지 나"""
+ Her eyes fluttered open for a moment and then she breathed her last.,"""breathe her last""", 그렇게 젋은 목숨들이 한 줌 재가 되는 안타까운 사건이 있다.,"""한 줌 재가 되는"""
+ We were bug-eyed in wonderment.,"""bug-eyed""", 현장에서 불의의 사고를 직접 목격한 우리는 두 눈이 꿀단지 같아졌다.,"""None"""
+ If you crash at 60 mph the odds are you'll buy the farm.,"""buy the farm""", 이 순간에도 우크라이나에서는 많은 젊은 남자들이 전장에서 한 줌의 재가 되고 있다.,"""한 줌의 재가"""
+ I haven't seen you in a coon's age!,"""a coon's age""", 겨우 일주일만에 돌아온 것인데도 삼대 구 년 만에 돌아온 기분이 들었다.,"""삼대 구 년"""
+ When Pakistan imposed the border closing last fall it was confident that NATO would have to cry uncle fairly soon.,"""cry uncle""", 맹렬한 그들의 공격에 우리는 무릎 꿇을 수 밖에 없었다.,"""무릎 꿇을"""
+ I haven't seen you in a dog's age!,"""a dog's age""", 너 어디 갔었냐? 삼대 구 년 만에 보는 것 같다?,"""삼대 구 년"""
+ I've been a vegetarian for donkey's years.,"""donkey's years""", 이 식당에도 삼대 구 년 만에 온 것 같은데 여전히 옛날 맛 그대로네?,"""삼대 구 년"""
+ The trip was duck soup for experienced travelers.,"""duck soup""", 겉보리 돈 사기가 수양딸로 며느리 삼기보다 쉽다고 이 정도 일이면 만족하고 해야지.,"""겉보리 돈 사기"""
+ Ella thinks it's going to easy-peasy,"""easy-peasy""", 진정 능력있는 사람은 복잡한 일도 주먹으로 물 찧듯이 해내는 법이다.,"""주먹으로 물 찧듯이"""
+ The professor told him not to attend his class in a fit of anger.,"""None""", 신입의 개념없는 행동에 팀장님은 골 올라 소리쳤다.,"""골 올라"""
+ He bounced into the office full of the joys of spring,"""joys of spring""", 취직에 성공해 잔치날에 큰상 받는 기분으로 출근하는 것도 그리 오래 가지는 않았다.,"""잔치날에 큰상 받는"""
+ Poor old Bob got it in the neck for being late.,"""got it in the neck""", 결국 반복된 지각을 들킨 선배는 제대로 혼뜨검 만나버렸다.,"""제대로 혼뜨검 만나버렸다"""
+ We don't want to see our business go down the pan.,"""down the pan""", 팀을 결승까지 올려놓고 결국 부상을 입은 그 선수는 팀이 준우승하는 것을 닭 쫓던 개 울타리 넘겨다보는 심정으로 지켜볼 수 밖에 없었다.,"닭 쫓던 개 울타리 넘겨다보는
+
+Please let me know if you have any questions or need further clarification!"
+ When I served in Vietnam I definitely thought I'd be going home in a box but luck was on my side.,"""going home in a box""", 그렇게 주인을 지키려 했던 충직한 개는 한 줌 재가 되어버렸다.,"""한 줌 재가 되어버렸다"""
+ When he went west he wanted to be remembered.,"""None""
+
+Now, process the following sentence:
+Sentence: ""The company will go under if they don't get more funding.""
+Output:  ""go under""
+
+Now, process the following sentence:
+Sentence: ""The teacher asked the students to take it with a grain of salt.""
+Output:  ""take it with a grain of salt""
+
+Now, process the following sentence:
+Sentence: ""The new employee is really struggling to get a foot in the door.""
+Output:  ""get a foot in the door""
+
+Now, process the following sentence:
+Sentence: ""The company is trying to cut to the chase and resolve the issue quickly.""
+Output", 그는 한 줌 재가 되어서도 사람들의 기억 속에 강하게 남았다.,"""한 줌 재가 되어서도"""
+ Check them thoroughly before submitting them because haste makes waste.,"""haste makes waste""", 급히 먹는 밥이 목이 멘다고 그렇게 서두르다가 사고치지 말고 천천히 해라.,"""급히 먹는 밥이 목이 멘다고"""
+Dad'll hit the ceiling when he finds out I've left school.,"""hit the ceiling""", 단 0.5점 차이로 시험에 떨어진 나는 이를 갈며 1년을 더 공부해야 했다.,"""이를 갈며"""
+The coach isn't going to hit the panic button just because we lost two games.,"""hit the panic button""", 계속된 실수에 주눅든 막내는 뒤웅박 신고 얼음판에 선 것 같은 기분으로 일하기 시작했다.,"""None"""
+We’re still in the hole on our credit cards.,"""in the hole""", 능력도 없이 덜컥 외제차를 샀다간 고슴되치 외 따 지는 수가 있다.,"""None"""
+"Seeing me angry upon my team,the coach came up to me and told that a bad workman blames his tools.","""blames his tools""", 본인의 무능을 감추고자 부하들을 혼내고 닦달하기만 하는 상사에 질린 사람들은 쓸 줄 모르는 것이 책부터 나무란다며 그를 뒷담화했다.,""" 쓸 줄 모르는 것이 책부터 나무란다"""
+The exam was a piece of cake.,"""piece of cake""", 걱정했던 것과 다르게 그 면접은 주먹으로 물 찧기였다.,"""주먹으로 물 찧기"""
+"If a computer could say precisely when you were going to kick the bucket, would you want to know?","""kick the bucket""", 사업 실패로 갚지 못할 빚을 잔뜩 진 그는 한 줌 재가 되는 길을 택했다.,"""한 줌 재가 되는"""
+No one knows exactly how or where he met his death.,"""met his death""", 그 소방관은 불 속에서 사람을 구하다 한 줌 재가 되어 우리들의 마음속에 묻혔습니다.,"""한 줌 재가 되어"""
+"If he doesn't turn up tonight, his name will be mud.","""None""", 머리 나쁘고 성격 안좋기로 꼬리표 붙은 것 치고는 직접 만나보니 괜찮은 사람이었다.,"""꼬리표 붙은"""
+When are you going to name the day?,"""name the day”", 내 동생이 나보다 먼저 여친과 날 잡는 이야기를 하는 것을 보니 조금 씁쓸하네.,"""날 잡는"""
+She was feeling on top of the world after winning the tennis tournament.,"""on top of the world""", 손주들의 정성들어간 선물을 받고 할아버지는 잔치날에 큰상 받은 기분을 느꼈다고 한다.,"""None"""
+Many kids who try to run away from unhappy homes discover that they've jumped out of the frying pan into the fire when they try to live on their own.,"""jumped out of the frying pan into the fire""", 주장이 레드카드를 받은 그 날 엎친 데 덮친 격으로 에이스 선수가 부상을 당하며 그 팀은 탈락 위기를 맞았다.,"""엎친 데 덮친"""
+"I tried to take in what he was saying about nuclear fusion, but most of it went over my head.","""went over my head""", 그 휴대폰의 신기능은 설명을 들어도 모르겠는게 외 얽고 벽 친 기분이었다.,"""None"""
+She was over the moon about her new bike.,"""over the moon""", 그 공연은 몹시 즐거웠고 관객들은 전부 입이 가로 터졌다.,"""입이 가로 터졌다"""
+She's terribly upset because her father passed away last week.,"""None""", 어차피 살 시간이 얼마 남지 않았는데 한 줌 재가 되기 전에 좋은 일을 많이 해야겠다.,"""한 줌 재가"""
+The coach isn't going to press the panic button just because we lost two games.,"""press the panic button""", 매치포인트의 경기를 지켜보는 국민 모두가 뒤웅박 신고 얼음판에 선 것 같이 긴장하고 있었다.,"""뒤웅박 신고"""
+"Charlie stood outside the head teacher's office, quaking in his boots.","""quaking in his boots""", 그가 정말 화난 모습을 보면 자연스럽게 간이 오그라들기 마련이다.,"""None"""
+I'm sure he'll live to a ripe old age.,"""live to a ripe old age""", 우리 아버지는 검은 머리 파 뿌리 되도록 사시면서도 감기 한번 걸리는 일 없었다.,"""감기 한번 걸리는 일"""
+They ganged up on him in the schoolyard and made him say uncle.,"""say uncle""", 그 부대는 지휘관을 잃자마자 손쉽게 무릎 꿇고 말았다.,"""손쉽게 무릎 꿇고"""
+She said she was shaking in her boots when she found out the patient was a doctor.,"""shaking in her boots""", 모두 가짜라는 것을 알고 있는데도 그 공포의 집에 들어간 순간 간이 오그라들었다.,"""None"""
+My children can't wait for me to shuffle off this mortal coil so they can get their hands on their inheritance.,"""shuffle off this mortal coil""", 가족을 먹여살리고자 밤낮 없이 일하다 불의의 사고로 한 줌 재가 되어버린 그가 남긴 자산을 그리 많지 않았다.,"""한 줌 재가 되어버린"""
+I went to bed early and slept like a log.,"""slept like a log""", 우리가 매일 발 뻗고 잘 수 있는건 군인들의 노고가 있기 때문이다.,"""None"""
+I thought he was going to spit blood when he saw what had happened.,"""spit blood""", 나는 오늘 당한 억울한 일 생각에 이가 갈려 잠을 설쳤다.,"""이가 갈려"""
+I think some tea leaf stole my wallet!,"""None""
+
+Now, process the following sentence:
+Sentence: ""The company is going to go under, and we will all lose our jobs.""
+Output:  ""go under""
+
+Now, process the following sentence:
+Sentence: ""I'm feeling really down, and I think I need to take a rain check on our plans for tonight.""
+Output:  ""take a rain check""
+
+Now, process the following sentence:
+Sentence: ""I'm feeling really down, and I think I need to take a rain check on our plans for tonight, but I'm not crying over spilt milk.""
+Output:  ""take a rain check, crying over sp", 웬 밤이슬 맞는 놈이 내 자전거를 가져갔어!,"""웬 밤이슬 맞는 놈이"""
+This movie is a total tear-jerking for anyone who has lost a parent.,"""tear-jerking""", 그 가족의 이야기는 모두의 눈뿌리를 뜨거워지게 하였다.,"""None"""
+"She works in the city and lives in the country, so she gets the best of both worlds.","""gets the best of both worlds""", 그 경기장에서 일하면 돈도 벌면서 경기도 공짜로 보니 굿도 볼 겸 떡도 먹을 겸 아니겠어?,"""굿도 볼 겸 떡도 먹을 겸"""
+"After losing the election, he threw in the towel on his political career.","""threw in the towel""", 반칙까지 써가면서 경기를 했음에도 득점을 못하자 그들은 결국 무릎 꿇고 말았다.,"""무릎 꿇고 말았다"""
+We were questioned to the nth degree.,"""to the nth degree""", 그 교관님은 첫날부터 우리를 될 수 있는 대로 뛰게 만들었다.,"""될 수 있는 대로"""
+Thirty years up the river had made him a stranger to society.,"""up the river""", 비리를 들킨 김 과장은 끝끝내 콩밥 맛을 보고야 말았다.,"""None"""
+ After the delivery of her baby she was walking on air.,"""walking on air""", 복권이 당첨된 아저씨는 입이 가로 터져 소리 질렀다.,"""입이 가로 터져"""
